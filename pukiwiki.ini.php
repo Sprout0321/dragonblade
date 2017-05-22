@@ -475,6 +475,9 @@ $agents = array(
 
     // Embedded browsers (Non-rich)
 
+    // スマートフォン判定追記
+	array('pattern'=>'#\b(Android|iPhone)\b#', 'profile'=>'keitai'),
+
 	// Windows CE (the others)
 	// Sample: "Mozilla/2.0 (compatible; MSIE 3.02; Windows CE; 240x320 )" (GFORT, NTT DoCoMo)
 	array('pattern'=>'#\b(Windows CE)\b#', 'profile'=>'keitai'),
