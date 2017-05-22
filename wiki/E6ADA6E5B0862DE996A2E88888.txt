@@ -1,0 +1,36 @@
+#author("2017-05-11T16:16:54+09:00","default:Admin","Admin")
+* ''張苞'' [#n151e840]
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Kankou/Kankou.png,nolink,50%)
+** データ  [#qa1c1e8c]
+>国：中立
+>グレード：COLOR(#993399){優良}
+>職業：盾兵
+>統率：127(+1.51)
+>武力：153(+1.82)
+>知力：115(+1.36)
+>評価：物理攻撃型。高い攻撃速度を備えるが、防御はやや弱い
+>
+** スキル  [#qa1c1e8c]
+- 怒号
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Kankou/SK1.png,nolink,100%)
+>15秒間、自身の攻撃速度と移動速度を100%上げる
+
+- 飛翔旋風
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Kankou/SK2.jpg,nolink,100%)
+>周囲の敵に毎回13の物理ダメージを与える、最大6回
+
+- 十字切り
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Kankou/SK3.png,nolink,100%)
+>敵単体に110の物理ダメージを与え、撃退する
+
+- 盾兵防御
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Kankou/SK4.png,nolink,20%)
+>武将と盾兵の物理防御を4上げる
+
+** メイン武器  [#qa1c1e8c]
+- 双手刃
+- 青光双刃
+- 藍火双刃
+- 陰陽双刃
+- 金風無双刃
+- 極速月牙刃

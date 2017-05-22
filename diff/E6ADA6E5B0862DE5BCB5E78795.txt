@@ -1,0 +1,38 @@
+-#author("2017-05-08T17:29:21+09:00","default:Admin","Admin")
++#author("2017-05-08T17:33:31+09:00","default:Admin","Admin")
+ * ''張燕'' [#n151e840]
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Tyouen/Tyouen.png,nolink,50%)
+ ** データ  [#qa1c1e8c]
+ >国：中立
+->グレード：COLOR(#3300FF){普通}
++>グレード：COLOR(#993399){優良}
+ >職業：弓兵
+ >統統率：153(+1.82)
+ >武力：138(+1.66)
+ >知力：115(+1.36)
+ >評価：長距離物理攻撃型、弓手の攻撃力を大幅にアップさせる
+ >
+ ** スキル  [#qa1c1e8c]
+ - 弓兵強撃
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Tyouen/SK1.png,nolink,50%)
+ >12秒間、広範囲内の弓兵の物理攻撃を10上げる
+ 
+ - 流火弾
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Tyouen/SK2.png,nolink,50%)
+ >多数の硫黄弾を射出し、範囲内の敵に70の物理ダメージを与える
+ 
+ - 火矢
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Tyouen/SK3.png,nolink,50%)
+ >敵に90の物理ダメージを与え、6秒間、8の火傷ダメージを与える
+ 
+ - 弓兵防御
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Tyouen/SK4.png,nolink,25%)
+ >武将と弓兵の物理防御を4上げる
+ 
+ ** メイン武器  [#qa1c1e8c]
+ - 驚燕弓
+ - 霊宝弓
+ - 覇王弓
+ - 震天弓
+ - 落日弓
+ - 黒山飛燕弓

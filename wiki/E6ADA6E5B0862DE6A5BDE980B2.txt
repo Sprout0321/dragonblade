@@ -1,0 +1,36 @@
+#author("2017-05-09T11:15:20+09:00","default:Admin","Admin")
+* ''楽進'' [#n151e840]
+#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Rakusin/Rakusin.png,nolink,50%)
+** データ  [#qa1c1e8c]
+>国：魏国
+>グレード：COLOR(#993399){優良}
+>職業：騎兵
+>統率：147(+1.75)
+>武力：145(+1.73)
+>知力：111(+1.33)
+>評価：物理攻撃型、敵の後方から奇襲をかけるのが得意、策略に対する防御力に優れている
+>
+** スキル  [#qa1c1e8c]
+- 流星刺し
+#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Rakusin/SK1.png,nolink,25%)
+>範囲内の敵に毎回26の物理ダメージを4回与える
+
+- 奇襲
+#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Rakusin/SK2.png,nolink,25%)
+>超長距離突進し、目標に60の物理ダメージを与える
+
+- 攻守兼備
+#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Rakusin/SK3.png,nolink,25%)
+>12秒間、味方の策略防御と物理攻撃を20上げる
+
+- 赤き鉄騎
+#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Rakusin/SK4.png,nolink,25%)
+>武将と全騎兵の策略防御を4上げる
+
+** メイン武器  [#qa1c1e8c]
+- 精鋼長矛
+- 片刃矛
+- 破軍矛
+- 双刃長矛
+- 鋭寒長矛
+- 風の長矛

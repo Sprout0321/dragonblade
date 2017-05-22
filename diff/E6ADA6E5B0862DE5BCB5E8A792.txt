@@ -1,0 +1,36 @@
++#author("2017-05-08T17:37:23+09:00","default:Admin","Admin")
++* ''張角'' [#n151e840]
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Tyoukaku/Tyoukaku.png,nolink,50%)
++** データ  [#qa1c1e8c]
++>国：中立
++>グレード：COLOR(#993399){優良}
++>職業：弓兵
++>統率：145(+1.73)
++>武力：95(+1.4)
++>知力：162(+2.19)
++>評価：策略攻撃型、単体の敵に対して集中攻撃することを得意とする
++>
++** スキル  [#qa1c1e8c]
++- 天雷
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Tyoukaku/SK1.png,nolink,50%)
++>雷を呼び起こし、目標範囲に35の策略ダメージを3回与え、自身の士気を10回復する
+ 
++- 雷指
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Tyoukaku/SK2.png,nolink,50%)
++>最も近い敵に110の策略ダメージを与える
++
++- 怒雷波
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Tyoukaku/SK3.png,nolink,50%)
++>緩やかに飛行する雷球を飛ばし、軌道上にいる敵に毎回20の策略ダメージを与え、士気5下げる
++
++- 策攻強化
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Tyoukaku/SK4.png,nolink,25%)
++>武将自身の策略攻撃を6上げる
++
++** メイン武器  [#qa1c1e8c]
++- 銅法杖
++- 南山杖
++- 天君杖
++- 黄道杖
++- 登天道法杖
++- 大賢良師杖

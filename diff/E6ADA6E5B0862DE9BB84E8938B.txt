@@ -1,0 +1,38 @@
+-#author("2017-05-08T13:03:51+09:00","default:Admin","Admin")
++#author("2017-05-08T13:12:12+09:00","default:Admin","Admin")
+ * ''黄蓋'' [#n151e840]
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/go/Kougai/Kougai.png,nolink,40%)
+ ** データ  [#qa1c1e8c]
+ >国：吴国
+ >グレード：COLOR(#993399){優良}
+ >職業：弓兵
+ >統率：142(+1.68)
+ >武力：153(+1.82)
+ >知力：126(+1.5)
+ >評価：遠距離攻撃型、スキルで、攻撃力が大幅にUPする
+ >
+ ** スキル  [#qa1c1e8c]
+ - 苦肉計
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/go/Kougai/SK1.png,nolink,110%)
+ >狂暴化し、16秒間攻撃力を50、攻撃速度を100%アップする。ただし、全防御力は10低下する
+ 
+ - 投錨
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/go/Kougai/SK2.png,nolink,110%)
+ >目標範囲に60の物理ダメージを与え、敵の行動を中断させる
+ 
+ - 飛鞭
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/go/Kougai/SK3.png,nolink,110%)
+ >敵単体に90の物理ダメージを与え、1～4秒間、気絶させる
+ 
+ - 弓兵防御
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/go/Kougai/SK4.png,nolink,20%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/go/Kougai/SK4.png,nolink,110%)
+ >武将と弓兵の物理防御を4上げる。		
+ 
+ ** メイン武器  [#qa1c1e8c]
+ - 手斧
+ - 投擲斧
+ - 翻江斧
+ - 破撃飛斧
+ - 追浪乗風斧
+ - 天河墜世斧

@@ -1,0 +1,36 @@
+#author("2017-05-08T19:40:48+09:00","default:Admin","Admin")
+* ''袁術'' [#n151e840]
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Enjyutu/Enjyutu.png,nolink,50%)
+** データ  [#qa1c1e8c]
+>国：中立
+>グレード：COLOR(#3300FF){普通}
+>職業：盾兵
+>統率：103(+1.21)
+>武力：81(+0.95)
+>知力：91(+1.07)
+>評価：全能策略型、敵の自由を奪うのが得意、小カラスを召喚する
+>
+** スキル  [#qa1c1e8c]
+- 黒鴉
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Enjyutu/SK1.png,nolink,50%)
+>3羽の黒いカラスを召喚。スキルレベルが高いほどカラスの攻撃力、防御力、生命力が高くなる
+
+- 夢幻
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Enjyutu/SK2.png,nolink,50%)
+>ランダムで5秒間敵単体を睡眠と毒状態にし、10のダメージを与える
+
+- 目隠し
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Enjyutu/SK3.png,nolink,50%)
+>範囲内の敵に60の策略ダメージを与え、6秒間、移動制限をかける
+
+- 進撃の盾兵
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Enjyutu/SK4.png,nolink,25%)
+>武将と全盾兵の物理攻撃を4上げる
+
+** メイン武器  [#qa1c1e8c]
+- 碧玉璽
+- 蛟虎璽
+- 護国玉璽
+- 伝世玉璽
+- 皇帝竜虎璽
+- 紫微竜気璽

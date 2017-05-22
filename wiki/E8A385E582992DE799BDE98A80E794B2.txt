@@ -1,0 +1,10 @@
+#author("2017-05-02T16:07:52+09:00","default:Admin","Admin")
+** 白銀甲 [#zcbf4116]
+
+#ref(http://wiki.dragon-blade.jp/image/Soubi/baowu010.png,nolink,100%)
+
+>グレード：紫色
+
+>物理防御：58
+
+>鑑定枠：3個

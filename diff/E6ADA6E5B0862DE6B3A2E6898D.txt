@@ -1,0 +1,36 @@
++#author("2017-05-08T19:16:38+09:00","default:Admin","Admin")
++* ''波才'' [#n151e840]
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Hasai/Hasai.png,nolink,50%)
++** データ  [#qa1c1e8c]
++>国：中立
++>グレード：COLOR(#3300FF){普通}
++>職業：盾兵
++>統率：64(+0.8)
++>武力：60(+0.75)
++>知力：73(+0.92)
++>評価：策略ガード型、策略防御に突飛した能力を発揮する
++>
++** スキル  [#qa1c1e8c]
++- 義旗の光
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Hasai/SK1.png,nolink,50%)
++>16秒間、自身の策略攻撃と策略防御を40上げる
+ 
++- 熱斧
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Hasai/SK2.png,nolink,50%)
++>敵単体に110の策略ダメージを与える
++
++- 重盾
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Hasai/SK3.png,nolink,50%)
++>敵単体に90の策略ダメージを与え、6秒間、攻撃速度と移動速度を16%下げる
++
++- 盾兵防御
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Hasai/SK4.png,nolink,25%)
++>武将と盾兵の物理防御を4上げる
++
++** メイン武器  [#qa1c1e8c]
++- 大斧
++- 丸刃斧
++- 三日月斧
++- 無敵斧
++- 開天斧
++- 三才将軍斧

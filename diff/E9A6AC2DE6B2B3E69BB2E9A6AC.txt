@@ -1,0 +1,18 @@
+-#author("2017-05-02T10:08:58+09:00","default:Admin","Admin")
++#author("2017-05-02T16:10:21+09:00","default:Admin","Admin")
+ [[FrontPage]]
+ 
+ ** 河曲馬 [#zcbf4116]
+ 
+-#ref(http://wiki.dragon-blade.jp/image/Uma/BM004.png,100%)
++#ref(http://wiki.dragon-blade.jp/image/Uma/BM004.png,nolink,100%)
+ 
+ グレード：紫色
+ 
+ 基本属性：30
+ 
+ 魂枠：3個
+ 
+ 因縁属性：物理防御+8
+ 
+ 因縁武将：武将全員

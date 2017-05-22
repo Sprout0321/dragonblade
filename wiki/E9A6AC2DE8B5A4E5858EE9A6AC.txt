@@ -1,0 +1,16 @@
+#author("2017-05-02T16:14:20+09:00","default:Admin","Admin")
+[[FrontPage]]
+
+** 赤兎馬 [#zcbf4116]
+
+#ref(http://wiki.dragon-blade.jp/image/Uma/BM008.png,nolink,100%)
+
+グレード：橙色
+
+基本属性：32
+
+魂枠：4個
+
+因縁属性：全ダメージ減少+
+
+因縁武将：呂布、関羽、馬超、孫策

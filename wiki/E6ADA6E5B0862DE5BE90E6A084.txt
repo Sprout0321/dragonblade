@@ -1,0 +1,36 @@
+#author("2017-05-08T17:17:45+09:00","default:Admin","Admin")
+* ''徐栄'' [#n151e840]
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Jyoei/Jyoei.png,nolink,50%)
+** データ  [#qa1c1e8c]
+>国：中立
+>グレード：COLOR(#3300FF){普通}
+>職業：弓兵
+>統率：72(+0.9)
+>武力：65(+0.82)
+>知力：68(+0.85)
+>評価：長距離物理攻撃型、能力は平衡的、大技で敵の自由を奪う事ができる
+>
+** スキル  [#qa1c1e8c]
+- 重矢連撃
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Jyoei/SK1.png,nolink,50%)
+>敵単体に3本の矢を放ち、55の物理ダメージを与え、5秒間、気絶させる
+
+- 分裂矢
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Jyoei/SK2.png,nolink,50%)
+>一定範囲内の敵に70の物理ダメージを与える
+
+- 強靱
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Jyoei/SK3.png,nolink,50%)
+>12秒間、自身の物理攻撃を10上げる
+
+- 弓兵防御
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Jyoei/SK4.png,nolink,25%)
+>武将と弓兵の物理防御を4上げる
+
+** メイン武器  [#qa1c1e8c]
+- 鵲弓
+- 反曲弓
+- 星辰弓
+- 逐日弓
+- 百結強弓
+- 鎮南長鉄弓

@@ -1,0 +1,15 @@
+#author("2017-05-02T16:04:30+09:00","default:Admin","Admin")
+** 清月羽扇 [#zcbf4116]
+
+#ref(http://wiki.dragon-blade.jp/image/Buki/baowu42.png,nolink,100%)
+
+>グレード：紫色
+
+>策略攻撃：70
+
+>鑑定枠：3個
+
+>セット属性：
+>2件　最大HP+525
+>3件　クリティカル+240
+>4件　回避確率+8%

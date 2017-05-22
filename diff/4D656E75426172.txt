@@ -1,0 +1,10 @@
+-#author("2017-03-01T14:34:08+09:00","default:Admin","Admin")
+-&edit(MenuBar,noicon){edit};
++#author("2017-03-01T14:35:24+09:00","default:Admin","Admin")
+ #recent(20)
+ 
+ //常に表示されるメニューバーです。
+ //&edit(MenuBar,noicon){edit};
+ //を記述しておくとMenuBarを気軽に修正できるようになって便利かも。
+-
++&edit(MenuBar,noicon){edit};

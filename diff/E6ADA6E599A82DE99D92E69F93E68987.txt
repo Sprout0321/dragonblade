@@ -1,0 +1,12 @@
+-#author("2017-05-02T10:17:37+09:00","default:Admin","Admin")
++#author("2017-05-02T16:06:08+09:00","default:Admin","Admin")
+ ** 青染扇 [#zcbf4116]
+ 
+-#ref(http://wiki.dragon-blade.jp/image/Buki/baowu037.png,100%)
++#ref(http://wiki.dragon-blade.jp/image/Buki/baowu037.png,nolink,100%)
+ 
+ >グレード：青色
+ 
+ >策略攻撃：32
+ 
+ >鑑定枠：2個

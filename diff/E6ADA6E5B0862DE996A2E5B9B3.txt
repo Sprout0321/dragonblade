@@ -1,0 +1,38 @@
+-#author("2017-05-09T10:20:23+09:00","default:Admin","Admin")
++#author("2017-05-09T10:37:05+09:00","default:Admin","Admin")
+ * ''関平'' [#n151e840]
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Kanpei/Kanpei.png,nolink,50%)
+ ** データ  [#qa1c1e8c]
+->国：中立
++>国：蜀国
+ >グレード：COLOR(#993399){優良}
+ >職業：槍兵
+ >統率：129(+1.53)
+ >武力：147(+1.75)
+ >知力：117(+1.4)
+ >評価：物理攻撃型。戦闘中に自身の攻防をアップ。敵のスキルをキャンセルできる
+ >
+ ** スキル  [#qa1c1e8c]
+ - 突進
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Kanpei/SK1.png,nolink,50%)
+ >前方に突進する。軌道上にいる敵に90の物理ダメージを3回与え、撃退する
+ 
+ - 昇竜撃
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Kanpei/SK2.png,nolink,50%)
+ >敵を空へぶっ飛ばして叩き落す。45の物理ダメージを2回与える
+ 
+ - 剛毅
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Kanpei/SK3.png,nolink,50%)
+ >12秒間、自身の物理攻撃と物理防御を5上げる
+ 
+ - 槍兵統領
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Kanpei/SK4.png,nolink,25%)
+ >武将と槍兵の物理攻撃を4上げる
+ 
+ ** メイン武器  [#qa1c1e8c]
+ - 白馬槍
+ - 虎牙槍
+ - 雲竜槍
+ - 雲間追月槍
+ - 呑火竜閃槍
+ - 雲竜破天槍

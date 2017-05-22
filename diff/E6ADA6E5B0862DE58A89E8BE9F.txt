@@ -1,0 +1,36 @@
++#author("2017-05-08T19:27:37+09:00","default:Admin","Admin")
++* ''劉辟'' [#n151e840]
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ryuuheki/Ryuuheki.png,nolink,50%)
++** データ  [#qa1c1e8c]
++>国：中立
++>グレード：COLOR(#3300FF){普通}
++>職業：盾兵
++>統率：67(+0.84)
++>武力：66(+0.83)
++>知力：53(+0.67)
++>評価：物理防御型、物理防御と操作系に優れている
++>
++** スキル  [#qa1c1e8c]
++- 開山破石
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ryuuheki/SK1.png,nolink,50%)
++>範囲内の敵に90の物理ダメージを与え、6秒間、気絶させる
+ 
++- 薪割斬
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ryuuheki/SK2.png,nolink,50%)
++>敵単体に90の物理ダメージを与え、叩き伏せる
++
++- 鉄牛
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ryuuheki/SK3.png,nolink,50%)
++>12秒間、自身の物理防御を10上げる
++
++- 盾兵統領
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ryuuheki/SK4.png,nolink,25%)
++>武将と盾兵の物理攻撃を4上げる
++
++** メイン武器  [#qa1c1e8c]
++- 鋼秣切
++- 犬頭秣切
++- 虎頭秣切
++- 竜頭秣切
++- 屠牛斬角刀
++- 大屠殺刀

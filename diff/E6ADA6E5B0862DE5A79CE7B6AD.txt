@@ -1,0 +1,43 @@
+-#author("2017-05-09T10:30:28+09:00","default:Admin","Admin")
++#author("2017-05-09T10:31:20+09:00","default:Admin","Admin")
+ * ''姜維'' [#n151e840]
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Batyou/Batyou.png,nolink,50%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Kyoui/Kyoui.png,nolink,50%)
+ ** データ  [#qa1c1e8c]
+ >国：蜀国
+ >グレード：COLOR(#3300FF){名将}
+ >職業：弓兵
+ >統率：176(+2.18)
+ >武力：158(+1.9)
+ >知力：163(+2.01)
+ >評価：策略遠距離攻撃型、能力のバランスが良い
+ >
+ ** スキル  [#qa1c1e8c]
+ - 突進の翼
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Batyou/SK1.png,nolink,25%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Kyoui/SK1.png,nolink,25%)
+ >軌道上にいる敵に90の策略ダメージを与え、撃退する
+ 
+ - 扇射
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Batyou/SK2.png,nolink,25%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Kyoui/SK2.png,nolink,25%)
+ >範囲内の敵に70の策略ダメージを与える
+ 
+ - 諸葛連弩
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Batyou/SK3.png,nolink,25%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Kyoui/SK3.png,nolink,25%)
+ >敵単体に10連続射撃を行い、毎回12の策略ダメージを与える
+ 
+ - 策攻強化
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Batyou/SK4.png,nolink,25%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Kyoui/SK4.png,nolink,25%)
+ >武将自身の策略攻撃を6上げる
+ 
+ ** メイン武器  [#qa1c1e8c]
+ - 手弩
+ - 強弩
+ - 軽巧連弩
+ - 諸葛連弩
+ - 麒麟の翼
+ - 蜀道精弩
+-

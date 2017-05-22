@@ -1,0 +1,36 @@
+#author("2017-05-09T10:35:38+09:00","default:Admin","Admin")
+* ''鮑三娘'' [#n151e840]
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Housanjyou/Housanjyou.png,nolink,50%)
+** データ  [#qa1c1e8c]
+>国：蜀国
+>グレード：COLOR(#993399){優良}
+>職業：弓兵
+>統率：106(+1.27)
+>武力：122(+1.45)
+>知力：122(+1.45)
+>評価：策略補助型、チームの攻撃速度と策略攻撃力をアップさせる
+>
+** スキル  [#qa1c1e8c]
+- 狂気の掃射
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Housanjyou/SK1.png,nolink,25%)
+>範囲内の敵に狂気じみた射撃を行い、毎回11の策略ダメージを与える
+
+- 巨弾砲
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Housanjyou/SK2.png,nolink,25%)
+>範囲内の敵に60の策略ダメージを与え、火傷状態にし、3秒間、毎秒8の策略ダメージを与える
+
+- 連撃
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Housanjyou/SK3.png,nolink,25%)
+>ランダムで敵に26の策略ダメージを5回与える
+
+- 弓兵統領
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Housanjyou/SK4.png,nolink,25%)
+>武将と弓兵の物理攻撃を4上げる
+
+** メイン武器  [#qa1c1e8c]
+- 機関弩
+- 精製弩
+- 六輪鉄弩
+- 連射強弩
+- 甲竜機関弩
+- 連射破陥弩

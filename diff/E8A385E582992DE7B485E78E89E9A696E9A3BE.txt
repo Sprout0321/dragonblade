@@ -1,0 +1,12 @@
+-#author("2017-05-02T10:34:00+09:00","default:Admin","Admin")
++#author("2017-05-02T16:08:14+09:00","default:Admin","Admin")
+ ** 紅玉首飾 [#zcbf4116]
+ 
+-#ref(http://wiki.dragon-blade.jp/image/Soubi/baowu030.png,100%)
++#ref(http://wiki.dragon-blade.jp/image/Soubi/baowu030.png,nolink,100%)
+ 
+ >グレード：青色
+ 
+ >最大HP：125
+ 
+ >鑑定枠：2個

@@ -1,0 +1,17 @@
+-#author("2017-05-02T10:17:55+09:00","default:Admin","Admin")
++#author("2017-05-02T16:06:02+09:00","default:Admin","Admin")
+ ** 赤霞羽扇 [#zcbf4116]
+ 
+-#ref(http://wiki.dragon-blade.jp/image/Buki/baowu056.png,100%)
++#ref(http://wiki.dragon-blade.jp/image/Buki/baowu056.png,nolink,100%)
+ 
+ >グレード：橙色
+ 
+ >策略攻撃：966
+ 
+ >鑑定枠：4個
+ 
+ >セット属性：
+ >2件　最大HP+1000
+ >3件　物理防御+72
+ >4件　攻撃速度+15%

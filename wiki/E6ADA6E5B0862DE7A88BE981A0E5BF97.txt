@@ -1,0 +1,36 @@
+#author("2017-05-08T18:03:35+09:00","default:Admin","Admin")
+* ''程遠志'' [#n151e840]
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Teiensi/Teiensi.png,nolink,50%)
+** データ  [#qa1c1e8c]
+>国：中立
+>グレード：COLOR(#3300FF){普通}
+>職業：弓兵
+>統率：50(+0.63)
+>武力：62(+0.78)
+>知力：45(+0.57)
+>評価：長距離物理攻撃型，能力は普通
+>
+** スキル  [#qa1c1e8c]
+- 爆裂散珠
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Teiensi/SK1.png,nolink,50%)
+>散珠を6回ばら撒いて、範囲内の敵に毎回17の物理ダメージを与える
+
+- 鳥弾
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Teiensi/SK2.png,nolink,50%)
+>敵単体に55の物理ダメージを2回与える
+
+- 逃げ足
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Teiensi/SK3.png,nolink,50%)
+>12秒間、自身の攻撃速度と回避能力を11%上げる
+
+- 弓兵統領
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Teiensi/SK4.png,nolink,25%)
+>武将と弓兵の物理攻撃を4上げる
+
+** メイン武器  [#qa1c1e8c]
+- 鳥弾
+- 風行弩
+- 魔付弩
+- 帝国弩
+- 鷲狩弩
+- 狡兎伸縮弓

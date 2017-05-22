@@ -1,0 +1,10 @@
+#author("2017-05-02T16:09:33+09:00","default:Admin","Admin")
+** 重厚甲 [#zcbf4116]
+
+#ref(http://wiki.dragon-blade.jp/image/Soubi/baowu009.png,nolink,100%)
+
+>グレード：青色
+
+>物理防御：32
+
+>鑑定枠：2個

@@ -1,0 +1,36 @@
++#author("2017-05-09T11:34:23+09:00","default:Admin","Admin")
++* ''鄒氏'' [#n151e840]
++#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Suusi/Suusi.png,nolink,50%)
++** データ  [#qa1c1e8c]
++>国：魏国
++>グレード：COLOR(#3300FF){普通}
++>職業：弓兵
++>統率：35(+0.42)
++>武力：71(+0.84)
++>知力：95(+1.11)
++>評価：全能策略型、敵が受けるダメージをアップさせ、かつ攻撃スピードを落とすことができる
++>
++** スキル  [#qa1c1e8c]
++- 紅の曲
++#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Suusi/SK1.png,nolink,50%)
++>10秒間、全軍の毎秒士気回復量を2.2上げる
+ 
++- 静心の曲
++#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Suusi/SK2.png,nolink,50%)
++>味方の生命が最も低い武将とその周囲友軍の生命を63回復する
++
++- 遠征の曲
++#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Suusi/SK3.png,nolink,50%)
++>味方の士気が最も高い武将の士気を15上げる
++
++- 捲土重来
++#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Suusi/SK4.png,nolink,25%)
++>毎秒メンバーの生命を3回復する
++
++** メイン武器  [#qa1c1e8c]
++- 木琴
++- 霊音琴
++- 悦己琴
++- 本復琴
++- 遥西雅琴
++- 古僕焦尾琴

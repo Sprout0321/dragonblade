@@ -1,0 +1,36 @@
+#author("2017-05-08T19:43:35+09:00","default:Admin","Admin")
+* ''袁紹'' [#n151e840]
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ensyou/Ensyou.png,nolink,50%)
+** データ  [#qa1c1e8c]
+>国：中立
+>グレード：COLOR(#993399){優良}
+>職業：槍兵
+>統率：160(+1.9)
+>武力：136(+1.62)
+>知力：145(+1.73)
+>評価：策略補助型、攻防を兼ね備え、チームの攻撃速度と策略攻撃をアップさせる
+>
+** スキル  [#qa1c1e8c]
+- 策士殺し
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ensyou/SK1.png,nolink,25%)
+>12秒間、全軍の策略攻撃を40上げる
+
+- 俊足
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ensyou/SK2.png,nolink,25%)
+>5秒間、広範囲内の味方の移動速度と攻撃速度を16%上げる
+
+- 弓隊支援
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ensyou/SK3.png,nolink,25%)
+>範囲内の敵に23の策略ダメージを与える
+
+- 迎撃の長槍
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ensyou/SK4.png,nolink,25%)
+>武将と全槍兵の物理防御を4上げる
+
+** メイン武器  [#qa1c1e8c]
+- 細剣
+- 賢才剣
+- 礼儀剣
+- 百朝剣
+- 夏禹剣
+- 万代千朝剣

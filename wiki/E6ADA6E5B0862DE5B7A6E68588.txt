@@ -1,0 +1,36 @@
+#author("2017-05-08T15:34:35+09:00","default:Admin","Admin")
+* ''左慈'' [#n151e840]
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Saji/Saji.png,nolink,50%)
+** データ  [#qa1c1e8c]
+>国：中立
+>グレード：COLOR(#993399){優良}
+>職業：弓兵
+>統率：81(+0.98)
+>武力：118(+1.41)
+>知力：169(+2.01)
+>評価：全能策略型、戦場を思いのままに操ることを得意とする。敵のスキルを封じることができる。
+>
+** スキル  [#qa1c1e8c]
+- 禁呪の陣
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Saji/SK1.png,nolink,50%)
+>法術陣を敷き、8秒間、陣内の敵の策略防御を10下げ、スキルを封印状態にする
+
+- 暗影の矢
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Saji/SK2.png,nolink,50%)
+>暗影矢を飛ばし、目標に90の策略ダメージを3回与え、6秒間、全防御を10下げる
+
+- 金縛り
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Saji/SK3.png,nolink,50%)
+>悪霊を召喚し敵に纏わり付かせる。敵に90の策略ダメージを与え、6秒間、気絶させる
+
+- 捲土重来
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Saji/SK4.png,nolink,25%)
+>毎秒メンバーの生命を3回復する
+
+** メイン武器  [#qa1c1e8c]
+- 照明符
+- 避鬼符
+- 南仙火符
+- 天師道符
+- 天道八卦符
+- 太極八卦符

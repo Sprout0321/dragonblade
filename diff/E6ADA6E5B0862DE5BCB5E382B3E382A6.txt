@@ -1,0 +1,41 @@
+-#author("2017-05-09T11:25:19+09:00","default:Admin","Admin")
++#author("2017-05-09T11:25:40+09:00","default:Admin","Admin")
+ * ''張コウ'' [#n151e840]
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Tyoukou/Tyoukou.png,nolink,50%)
+ ** データ  [#qa1c1e8c]
+ >国：魏国
+ >グレード：COLOR(#993399){優良}
+ >職業：槍兵
+ >統率：174(+2.18)
+ >武力：167(+2.02)
+ >知力：136(+1.62)
+ >評価：物理攻撃型，強力な攻撃力を持つ。相手の防御力を下げることができる。
+ >
+ ** スキル  [#qa1c1e8c]
+ - 鬼鎌
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Tyoukou/SK1.png,nolink,50%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Tyoukou/SK1.png,nolink,25%)
+ >範囲内の敵に105の物理攻撃を与え、8秒間、物理防御を80下げる
+ 
+ - 飛鎌
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Tyoukou/SK2.png,nolink,50%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Tyoukou/SK2.png,nolink,25%)
+ >目標範囲の敵に毎回23の物理ダメージを与え、自身のHPを121回復する
+ 
+ - 三段殺
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Tyoukou/SK3.png,nolink,50%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Tyoukou/SK3.png,nolink,25%)
+ >目標範囲の敵に3回にわたり、24、24と32の物理ダメージを与え、4秒間、攻撃速度を50%上げる
+ 
+ - 進撃の槍兵
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Tyoukou/SK4.png,nolink,50%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Tyoukou/SK4.png,nolink,25%)
+ >武将と全槍兵の物理攻撃を4上げる
+ 
+ ** メイン武器  [#qa1c1e8c]
+ - 殺鎌
+ - 鬼僕鎌
+ - 追鬼長鎌
+ - 蝕魂の鎌
+ - 殺血悪鬼鎌
+ - 万魔朝宗鎌

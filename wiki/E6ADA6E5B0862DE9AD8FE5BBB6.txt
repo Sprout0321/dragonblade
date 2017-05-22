@@ -1,0 +1,40 @@
+#author("2017-05-08T14:38:57+09:00","default:Admin","Admin")
+* ''魏延'' [#n151e840]
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Gien/Gien.png,nolink,50%)
+** データ  [#qa1c1e8c]
+>国：蜀国
+>グレード：COLOR(#993399){優良}
+>職業：盾兵
+>統率：156(+1.95)
+>武力：162(+2.01)
+>知力：129(+1.53)
+>評価：物理防御型、強力な物理攻撃と策略に対する防御能力を持つ
+>
+** スキル  [#qa1c1e8c]
+- 盾気振蕩
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Gien/SK1.png,nolink,60%)
+>周囲の敵に60の物理攻撃を行うと同時に、周囲の味方HPを63回復する。また、スキルが敵に命中するたびに
+
+、自信のHPが63回復する
+
+- 抵抗
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Gien/SK2.png,nolink,60%)
+>敵を吹き飛ばし90の物理ダメージを与え、18秒間、自身の物理防御と策略防御を20上げる、同時にクリティ
+
+カル耐性を2%上げる
+
+- 剣掃
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Gien/SK3.png,nolink,60%)
+>範囲内の敵に60の物理ダメージを与え、撃退する
+
+- 頑丈な大盾
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Gien/SK4.png,nolink,60%)
+>武将と全盾兵の物理防御を4上げる
+
+** メイン武器  [#qa1c1e8c]
+- 軍盾
+- 鉄血盾
+- 軍馬盾
+- 兵甲盾
+- 軍神の律
+- 万軀の鉄壁

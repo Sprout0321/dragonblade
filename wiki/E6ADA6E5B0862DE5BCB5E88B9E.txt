@@ -1,0 +1,36 @@
+#author("2017-05-09T10:37:12+09:00","default:Admin","Admin")
+* ''張苞'' [#n151e840]
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Tyouhou/Tyouhou.png,nolink,50%)
+** データ  [#qa1c1e8c]
+>国：蜀国
+>グレード：COLOR(#993399){優良}
+>職業：盾兵
+>統率：113(+1.34)
+>武力：160(+1.9)
+>知力：104(+1.24)
+>評価：物理防御型。高い防御能力と爆発力を持つ
+>
+** スキル  [#qa1c1e8c]
+- 迅雷撃
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Tyouhou/SK1.png,nolink,50%)
+>前方範囲に5連続攻撃を行い、毎回21の物理ダメージを与える
+
+- 撃退
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Tyouhou/SK2.png,nolink,50%)
+>敵単体に90の物理ダメージを与えて撃退し、4秒間、気絶させる
+
+- 二連撃
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Tyouhou/SK3.png,nolink,50%)
+>敵単体に55の物理ダメージを2回与える
+
+- 盾兵統領
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Tyouhou/SK4.png,nolink,25%)
+>武将と盾兵の物理攻撃を4上げる
+
+** メイン武器  [#qa1c1e8c]
+- 火素腕輪
+- 人素腕輪
+- 地素腕輪
+- 天素腕輪
+- 大天素腕輪
+- 火狼獣腕輪

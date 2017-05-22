@@ -1,0 +1,10 @@
+#author("2017-05-02T16:08:08+09:00","default:Admin","Admin")
+** 竜紋首飾 [#zcbf4116]
+
+#ref(http://wiki.dragon-blade.jp/image/Soubi/baowu032.png,nolink,100%)
+
+>グレード：橙色
+
+>最大HP：410
+
+>鑑定枠：4個

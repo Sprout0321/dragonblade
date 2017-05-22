@@ -1,0 +1,38 @@
+-#author("2017-05-08T15:23:06+09:00","default:Admin","Admin")
++#author("2017-05-08T15:23:14+09:00","default:Admin","Admin")
+ * ''陳宮'' [#n151e840]
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Chinkyuu/Chinkyuu.png,nolink,50%)
+ ** データ  [#qa1c1e8c]
+ >国：中立
+ >グレード：COLOR(#FF9900){名将}
+ >職業：盾兵
+ >統率：158(+1.99)
+ >武力：116(+1.89)
+ >知力：222(+2.81)
+ >評価：策略攻撃型、複数の敵に対する攻撃に優れている。
+ >
+ ** スキル  [#qa1c1e8c]
+ - 極光
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Chinkyuu/SK1.png,nolink,50%)
+ >目標範囲内の敵に毎回17の策略ダメージを与え、3秒間、移動制限をかける
+ 
+ - 元気弾
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Chinkyuu/SK2.png,nolink,50%)
+ >元気弾を3発放ち、範囲内の敵に35の策略ダメージを与える
+ 
+ - 磁力射線
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Chinkyuu/SK3.png,nolink,50%)
+ >敵単体に毎回37の策略ダメージを与え、6秒間、敵の速度を100%下げる
+ 
+ - 策攻強化
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Chinkyuu/SK4.png,nolink,50%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Chinkyuu/SK4.png,nolink,25%)
+ >武将自身の策略攻撃を6上げる
+ 
+ ** メイン武器  [#qa1c1e8c]
+ - 門鞭
+ - 四時鞭
+ - 戦国鞭
+ - 縦横鞭
+ - 竜図鞭
+ - 春秋鞭

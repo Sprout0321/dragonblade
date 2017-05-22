@@ -1,0 +1,36 @@
+#author("2017-05-09T11:27:27+09:00","default:Admin","Admin")
+* ''甄氏'' [#n151e840]
+#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Sinsi/Sinsi.png,nolink,60%)
+** データ  [#qa1c1e8c]
+>国：魏国
+>グレード：COLOR(#FF9900){名将}
+>職業：弓兵
+>統率：138(+1.75)
+>武力：143(+1.82)
+>知力：191(+2.41)
+>評価：策略補助型、補助と攻撃を兼ね備えており、敵のブースト効果を無効化させることができる
+>
+** スキル  [#qa1c1e8c]
+- 洛神
+#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Sinsi/SK1.png,nolink,50%)
+>洪水で敵を吹き飛ばし、90の策略ダメージを与え、敵のブースト効果を解除する。
+
+- 泉浪
+#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Sinsi/SK2.png,nolink,50%)
+>範囲内の敵に60の策略ダメージを与え、4秒間攻撃速度を50%下げる
+
+- 清波
+#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Sinsi/SK3.png,nolink,50%)
+>周りにいる味方のHPを63回復し、周りの敵軍を吹き飛ばす
+
+- 戦鼓雷鳴
+#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Sinsi/SK4.png,nolink,25%)
+>武将自身の士気回復速度を1.2上げる
+
+** メイン武器  [#qa1c1e8c]
+- 碧波珠
+- 波濤珠
+- 河伯の珠
+- 洛神明珠
+- 縹渺定神珠
+- 洛霊神離珠

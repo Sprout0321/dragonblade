@@ -1,0 +1,36 @@
+#author("2017-05-08T14:21:40+09:00","default:Admin","Admin")
+* ''関羽'' [#n151e840]
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Kanu/Kanu.png,nolink,40%)
+** データ  [#qa1c1e8c]
+>国：蜀国
+>グレード：COLOR(#FF9900){名将}
+>職業：盾兵
+>統率：239(+3.03)
+>武力：253(+3.19)
+>知力：189(+2.4)
+>評価：全能物理型，攻防に優れ敵のスキルをキャンセル、吹き飛ばす特技を持つ
+>
+** スキル  [#qa1c1e8c]
+- 青竜呑月
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Kanu/SK1.png,nolink,50%)
+>目標範囲内の敵に20の物理攻撃を6回にわたり与え、相手を吹き飛ばす
+
+- 傲骨
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Kanu/SK2.png,nolink,50%)
+>目標範囲に60の物理ダメージを与え、さらに8秒間、物理防御と策略防御を5アップさせると共に状態異常を跳ね除ける
+
+- 半月斬
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Kanu/SK3.png,nolink,50%)
+>前方の敵に60の物理ダメージを与え、撃退する
+
+- 物攻強化
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Kanu/SK4.png,nolink,25%)
+>武将自身の物理攻撃を6上げる
+
+** メイン武器  [#qa1c1e8c]
+- 鉄刀
+- 鋼刀
+- 純鋼刀
+- 青鋼刀
+- 青竜偃月刀
+- 傲月竜首刀

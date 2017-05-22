@@ -1,0 +1,36 @@
++#author("2017-05-11T15:12:13+09:00","default:Admin","Admin")
++* ''胡軫'' [#n151e840]
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kousin/Kousin.png,nolink,50%)
++** データ  [#qa1c1e8c]
++>国：中立
++>グレード：COLOR(#3300FF){普通}
++>職業：槍兵
++>統率：71(+0.89)
++>武力：76(+0.95)
++>知力：62(+0.78)
++>評価：物理防御型、単体の敵の自由を奪うスキルを持つ
++>
++** スキル  [#qa1c1e8c]
++- 戦吼
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kousin/SK1.png,nolink,50%)
++>咆哮で音波攻撃を発し、前方の敵に30の物理ダメージを3回与える
+ 
++- 足払い
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kousin/SK2.png,nolink,50%)
++>敵単体に90の物理ダメージを与え、4秒間、気絶させる
++
++- 痛撃
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kousin/SK3.png,nolink,50%)
++>目標を討ち取るために55のダメージを受け、敵単体に220の物理ダメージを与える
++
++- 進撃の槍兵
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kousin/SK4.png,nolink,25%)
++>武将と全槍兵の物理攻撃を4上げる
++
++** メイン武器  [#qa1c1e8c]
++- 青銅矛
++- 月牙矛
++- 銀剪矛
++- 寒星矛
++- 紫電金風矛
++- 血染矛

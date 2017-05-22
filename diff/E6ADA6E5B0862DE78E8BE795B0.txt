@@ -1,0 +1,43 @@
+-#author("2017-05-09T10:52:17+09:00","default:Admin","Admin")
++#author("2017-05-09T10:52:44+09:00","default:Admin","Admin")
+ * ''王異'' [#n151e840]
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ooi/Ooi.png,nolink,50%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Ooi/Ooi.png,nolink,50%)
+ ** データ  [#qa1c1e8c]
+ >国：魏国
+ >グレード：COLOR(#993399){優良}
+ >職業：槍兵
+ >統率：129(+1.53)
+ >武力：142(+1.68)
+ >知力：136(+1.62)
+ >評価：物理攻撃型、敵の後方から奇襲をかけるのが得意であり、驚異的な瞬発力を持っている
+ >
+ ** スキル  [#qa1c1e8c]
+ - 千刃
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ooi/SK1.png,nolink,25%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Ooi/SK1.png,nolink,25%)
+ >自分を中心に飛刀を放ち、周囲の敵に52の物理ダメージを与える
+ 
+ - 瞬殺
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ooi/SK2.png,nolink,25%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Ooi/SK2.png,nolink,25%)
+ >一瞬で自分から最も遠い敵の隣へ飛び、110の物理ダメージを与え、12秒間、回避を35%上げる
+ 
+ - 閃殺
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ooi/SK3.png,nolink,25%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Ooi/SK3.png,nolink,25%)
+ >敵単体に110の物理ダメージを与える
+ 
+ - 会心強化
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ooi/SK4.png,nolink,25%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Ooi/SK4.png,nolink,25%)
+ >武将自身のクリティカルを24上げる
+ 
+ ** メイン武器  [#qa1c1e8c]
+ - 青铜匕
+ - 梅花匕
+ - 图穷匕
+ - 羊角匕
+ - 虞帝匕首
+ - 复仇之刃
+-

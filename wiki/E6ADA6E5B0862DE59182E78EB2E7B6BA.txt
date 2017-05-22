@@ -1,0 +1,36 @@
+#author("2017-05-08T19:37:51+09:00","default:Admin","Admin")
+* ''呂玲綺'' [#n151e840]
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ryoreiki/Ryoreiki.png,nolink,50%)
+** データ  [#qa1c1e8c]
+>国：中立
+>グレード：COLOR(#993399){優良}
+>職業：弓兵
+>統率：122(+1.45)
+>武力：160(+1.9)
+>知力：109(+1.32)
+>評価：長距離物理攻撃型、単体攻撃に優れた能力を発揮する
+>
+** スキル  [#qa1c1e8c]
+- 絞殺の輪
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ryoreiki/SK1.png,nolink,50%)
+>高速回転の手裏剣を飛ばし、軌道上にいる敵に毎回20の物理ダメージを与える
+
+- 飛襲
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ryoreiki/SK2.png,nolink,50%)
+>敵単体に110の物理ダメージを与え、12秒間、自身のクリティカルを27上げる。跳躍中、ダメージを受けない
+
+- 雷刃
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ryoreiki/SK3.png,nolink,50%)
+>敵単体に90の物理ダメージを与え、6秒間、攻撃力を10下げる
+
+- 弓兵統領
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ryoreiki/SK4.png,nolink,25%)
+>武将と弓兵の物理攻撃を4上げる
+
+** メイン武器  [#qa1c1e8c]
+- 三葉刃
+- 飛旋刃
+- 日月刃
+- 乾坤刃
+- 蒼穹三旋刃
+- 窮奇絞殺刃

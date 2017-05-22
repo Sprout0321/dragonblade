@@ -1,0 +1,36 @@
+#author("2017-05-08T14:49:12+09:00","default:Admin","Admin")
+* ''賈ク'' [#n151e840]
+#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Kaku/Kaku.png,nolink,60%)
+** データ  [#qa1c1e8c]
+>国：魏国
+>グレード：COLOR(#FF9900){名将}
+>職業：弓兵
+>統率：178(+2.47)
+>武力：136(+1.73)
+>知力：255(+3.2)
+>評価：策略攻撃型、敵単体を集中的に攻撃することを得意とし、操作系の能力にも優れている
+>
+** スキル  [#qa1c1e8c]
+- 無間
+#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Kaku/SK1.png,nolink,50%)
+>範囲内の敵に毎回26の策略ダメージを与え、命中した敵武将の士気を1%下げ、与えるダメージを1%上げる
+
+- 禁断
+#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Kaku/SK2.png,nolink,50%)
+>最も近い敵武将に90の策略ダメージを与え、4秒間、スキルを封印状態にする
+
+- 貪食
+#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Kaku/SK3.png,nolink,50%)
+>最も近い敵武将に90の策略ダメージを与え、士気を24吸い取る
+
+- 戦鼓雷鳴
+#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Kaku/SK4.png,nolink,25%)
+>武将自身の士気回復速度を1.2上げる
+
+** メイン武器  [#qa1c1e8c]
+- 骨指
+- 毒骨指
+- 幽冥手
+- 呑魂手
+- 枯炎殺魂指
+- 冥法殺魂指

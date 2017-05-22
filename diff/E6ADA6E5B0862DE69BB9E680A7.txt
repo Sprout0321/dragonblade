@@ -1,0 +1,38 @@
+-#author("2017-05-08T17:20:21+09:00","default:Admin","Admin")
++#author("2017-05-08T17:33:41+09:00","default:Admin","Admin")
+ * ''曹性'' [#n151e840]
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Sousei/Sousei.png,nolink,50%)
+ ** データ  [#qa1c1e8c]
+ >国：中立
+->グレード：COLOR(#3300FF){普通}
++>グレード：COLOR(#993399){優良}
+ >職業：弓兵
+ >統率：93(+1.11)
+ >武力：145(+1.73)
+ >知力：118(+1.41)
+ >評価：長距離物理攻撃型，単体の敵を集中して攻撃することが得意。スキル使用で爆発的に攻撃力がUPする
+ >
+ ** スキル  [#qa1c1e8c]
+ - 集中攻撃
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Sousei/SK1.png,nolink,50%)
+ >遠距離から敵を襲撃し、その周囲の敵に176の物理ダメージを与え、6秒間、24%の攻撃速度を下げる
+ 
+ - 連環射撃
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Sousei/SK2.png,nolink,50%)
+ >敵単体に36の物理ダメージを連続3回与える
+ 
+ - 会心
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Sousei/SK3.png,nolink,50%)
+ >24秒間、自身のクリティカル能力を27上げる
+ 
+ - 進撃の弓兵
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Sousei/SK4.png,nolink,25%)
+ >武将と全弓兵の物理攻撃を4上げる
+ 
+ ** メイン武器  [#qa1c1e8c]
+ - 精鉄弓
+ - 游子弓
+ - 万石弓
+ - 神臂弓
+ - 玄金風翎弓
+ - 銀月冷鋒弓

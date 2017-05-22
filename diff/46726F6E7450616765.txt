@@ -1,0 +1,24 @@
+-#author("2017-03-01T11:41:25+09:00","default:Admin","Admin")
++#author("2017-05-22T12:30:14+09:00","default:Admin","Admin")
+ #norelated
+-*　ドラゴンブレイドWIKI [#qb249ac2]
++*ドラゴンブレイドWIKI [#qb249ac2]
+ 
+ このページは、ページを指定しない時に表示されます。
+ 
+ あなたのサイトに合わせ、自由に編集してください :) ((安易なSPAMやいたずらを防止するため、テーマや目的などの説明を加えた後、忘れずに凍結して下さい。パスワードの変更もお忘れなく!))
+ 
+ 
+ ** 練習ページ [#if72ced0]
+ - [[SandBox]] -- 編集をお試しください
+ - [[InterWikiSandBox]] -- [[InterWiki]]を試してみてください
+ 
+ 
+ ** PukiWikiについて [#c2af49f4]
+ 
+ - [[PukiWiki]] -- PukiWikiのご紹介
+ 
+ *** ドキュメント [#o366701b]
+ - [[ヘルプ>Help]] -- PukiWikiで編集するには？
+ - [[テキスト整形のルール(詳細版)>FormattingRules]]
+ - [[プラグインマニュアル>PukiWiki/1.4/Manual/Plugin]]

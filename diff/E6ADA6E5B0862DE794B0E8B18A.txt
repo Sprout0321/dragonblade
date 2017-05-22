@@ -1,0 +1,40 @@
+-#author("2017-05-08T19:13:20+09:00","default:Admin","Admin")
++#author("2017-05-08T19:13:41+09:00","default:Admin","Admin")
+ * ''田豊'' [#n151e840]
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Denhou/Denhou.png,nolink,50%)
+ ** データ  [#qa1c1e8c]
+ >国：中立
+ >グレード：COLOR(#993399){優良}
+ >職業：槍兵
+ >統率：135(+1.6)
+ >武力：118(+1.41)
+ >知力：158(+1.86)
+ >評価：全能策略型、特定の敵を集中的に攻撃することに優れている。複数の敵の自由を奪うことができる
+ >
+ ** スキル  [#qa1c1e8c]
+ - 拷問
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Denhou/SK1.png,nolink,50%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Denhou/SK1.png,nolink,25%)
+ >目標及び足枷状態の敵に55の策略ダメージを3回与える
+ 
+ - 串刺し
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Denhou/SK2.png,nolink,50%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Denhou/SK2.png,nolink,25%)
+ >目標の足元から鋭い棘を出し、目標に110の策略ダメージを与える
+ 
+ - 足枷
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Denhou/SK3.png,nolink,50%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Denhou/SK3.png,nolink,25%)
+ >ランダムの敵に90の策略ダメージを与え、さらに足枷状態とし180秒間、全速度を25%下げる
+ 
+ - 策攻強化
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Denhou/SK4.png,nolink,25%)
+ >武将自身の策略攻撃を6上げる
+ 
+ ** メイン武器  [#qa1c1e8c]
+ - 地牢の鍵
+ - 痛苦の鍵
+ - 万悪の鍵
+ - 処刑の鍵
+ - 煉獄の鍵
+ - 僧悪の鍵

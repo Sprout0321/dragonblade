@@ -1,0 +1,38 @@
+-#author("2017-05-02T18:37:47+09:00","default:Admin","Admin")
++#author("2017-05-08T15:35:30+09:00","default:Admin","Admin")
+ * ''華佗'' [#n151e840]
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kada/Kada.png,nolink,50%)
+ ** データ  [#qa1c1e8c]
+ >国：中立
+ >グレード：COLOR(#993399){優良}
+ >職業：弓兵
+ >統率：68(+0.82)
+ >武力：97(+1.16)
+ >知力：144(+1.69)
+ >評価：策略辅助型，回復能力が高い、HP回復と異状解除が得意
+ >
+ ** スキル  [#qa1c1e8c]
+ - 草木回春
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kada/SK1.png,nolink,50%)
+ >8秒の間、全軍のHPを毎秒11づつ回復する。
+ 
+ - 医療術
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kada/SK2.png,nolink,50%)
+ >味方の生命が最も低い武将とその周囲友軍の生命を63回復する。
+ 
+ - 杏林春暖
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kada/SK3.png,nolink,50%)
+ >味方全員の異常状態を解除し、6秒間、毎秒4生命を回復する。
+ 
+ - 従軍医師
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kada/SK4.png,nolink,50%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kada/SK4.png,nolink,25%)
+ >武将と全軍の生命回復速度を3上げる。
+ 
+ ** メイン武器  [#qa1c1e8c]
+ - 青木杖
+ - 逢甘杖
+ - 露雨杖
+ - 暁春杖
+ - 三葉映霞杖
+ - 沐霊春雨杖

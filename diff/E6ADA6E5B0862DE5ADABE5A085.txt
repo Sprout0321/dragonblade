@@ -1,0 +1,42 @@
+-#author("2017-05-02T15:57:37+09:00","default:Admin","Admin")
++#author("2017-05-08T13:16:10+09:00","default:Admin","Admin")
+ * ''孫堅'' [#n151e840]
+-#ref(http://wiki.dragon-blade.jp/image/Hon/BS013.png,nolink,100%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/go/Sonken/Sonken.png,nolink,40%)
+ ** データ  [#qa1c1e8c]
+ >国：吴国
+ >グレード：COLOR(#FF9900){名将}
+ >職業：盾兵
+ >統率：237(+2.98)
+ >武力：231(+2.92)
+ >知力：171(+2.18)
+ >評価：物理攻撃型、敵の前進を阻止することが得意。
+ >
+ ** スキル  [#qa1c1e8c]
+ - 墜天の一撃
+-#ref(http://wiki.dragon-blade.jp/image/Hon/BS013.png,nolink,100%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/go/Sonken/SK1.png,nolink,110%)
+ >目標範囲に90の物理ダメージを与え、敵を叩き倒し、8秒間、敵の攻撃速度を75%下げる
+ 
+ - 銅壁
+-#ref(http://wiki.dragon-blade.jp/image/Hon/BS013.png,nolink,100%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/go/Sonken/SK2.png,nolink,110%)
+ >12秒間、自身の物理防御と策略防御を20上げ、4秒間、周囲の味方の状態異常を跳ね除ける
+ 
+ - 古錠刀
+-#ref(http://wiki.dragon-blade.jp/image/Hon/BS013.png,nolink,100%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/go/Sonken/SK3.png,nolink,110%)
+ >範囲内の敵に60の物理ダメージを与え、4秒間、気絶させる。
+ 
+ - 頑丈な大盾
+-#ref(http://wiki.dragon-blade.jp/image/Hon/BS013.png,nolink,100%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/go/Sonken/SK4.png,nolink,110%)
+ >武将と全盾兵の物理防御を4上げる。
+ 
+ ** メイン武器  [#qa1c1e8c]
+ - 大刀
+ - 古錠刀
+ - 虎頭刀
+ - 猛虎刀
+ - 悪虎盤山刀
+ - 武烈東皇刀

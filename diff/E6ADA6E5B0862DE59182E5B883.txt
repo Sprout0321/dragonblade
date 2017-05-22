@@ -1,0 +1,38 @@
+-#author("2017-05-02T18:45:21+09:00","default:Admin","Admin")
++#author("2017-05-08T15:06:35+09:00","default:Admin","Admin")
+ * ''呂布'' [#n151e840]
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ryofu/Ryofu.png,nolink,40%)
+ ** データ  [#qa1c1e8c]
+ >国：中立
+ >グレード：COLOR(#FF9900){名将}
+ >職業：騎兵
+ >統率：224(+2.84)
+ >武力：64(+3.31)
+ >知力：184(+2.33)
+ >評価：全能物理型，高いダメージ能力とスキルキャンセルの特技を持つ
+ >
+ ** スキル  [#qa1c1e8c]
+ - 神魔倶滅
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ryofu/SK1.png,nolink,50%)
+ >周囲広範囲に56と166の物理ダメージを与え、敵を吹き飛ばす
+ 
+ - 無双轟撃
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ryofu/SK3.png,nolink,50%)
+ >目標と目標周囲の敵を順次に弾き飛ばし、それぞれ45の物理ダメージを与える
+ 
+ - 無双旋舞
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ryofu/SK2.png,nolink,50%)
+ >戦戟を回しながら高速移動し、範囲内の敵に毎回35の物理ダメージを与える。発動中、呂布はダメージを受けない
+ 
+ - 進撃の騎兵
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ryofu/SK4.png,nolink,50%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ryofu/SK4.png,nolink,25%)
+ >武将と全騎兵の物理攻撃を4上げる
+ 
+ ** メイン武器  [#qa1c1e8c]
+ - 三叉槍
+ - 九曲矛
+ - 虎威矛
+ - 天命戦矛
+ - 方天画矛
+ - 十方全滅

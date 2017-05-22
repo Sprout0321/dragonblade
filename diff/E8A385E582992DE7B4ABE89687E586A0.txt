@@ -1,0 +1,12 @@
+-#author("2017-05-02T10:33:42+09:00","default:Admin","Admin")
++#author("2017-05-02T16:08:20+09:00","default:Admin","Admin")
+ ** 紫薇冠 [#zcbf4116]
+ 
+-#ref(http://wiki.dragon-blade.jp/image/Soubi/baowu024.png,100%)
++#ref(http://wiki.dragon-blade.jp/image/Soubi/baowu024.png,nolink,100%)
+ 
+ >グレード：紫色
+ 
+ >策略防御：58
+ 
+ >鑑定枠：3個

@@ -1,0 +1,36 @@
+#author("2017-05-09T11:20:36+09:00","default:Admin","Admin")
+* ''許褚'' [#n151e840]
+#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Kyotyo/Kyotyo.png,nolink,50%)
+** データ  [#qa1c1e8c]
+>国：魏国
+>グレード：COLOR(#FF9900){名将}
+>職業：盾兵
+>統率：136(+1.73)
+>武力：248(+3.14)
+>知力：121(+1.53)
+>評価：物理防御型、強靭な生命力を持っている、爆発ダメージを与えることができる
+>
+** スキル  [#qa1c1e8c]
+- 捨て身攻撃
+#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Kyotyo/SK1.png,nolink,25%)
+>残りのHP10%と引き換えに、範囲内の敵に176の物理ダメージを与え、さらに6秒間気絶させる
+
+- 砕骨槌
+#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Kyotyo/SK2.png,nolink,25%)
+>目標範囲に60の物理ダメージを与え、叩き伏せる
+
+- 爆発
+#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Kyotyo/SK3.png,nolink,25%)
+>12秒間、自身の物理攻撃を20、攻撃速度を35%上げ、毎秒最大HPの1％を回復する。
+
+- 生命強化
+#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Kyotyo/SK4.png,nolink,25%)
+>武将自身のHP上限を8%上げる
+
+** メイン武器  [#qa1c1e8c]
+- 大銅鎚
+- 破甲鎚
+- 崩天巨鎚
+- 裂地虎形鎚
+- 王佑護国鎚
+- 震撼動神鎚

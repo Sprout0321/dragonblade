@@ -1,0 +1,16 @@
+#author("2017-05-02T16:10:15+09:00","default:Admin","Admin")
+[[FrontPage]]
+
+** 山丹馬 [#zcbf4116]
+
+#ref(http://wiki.dragon-blade.jp/image/Uma/BM002.png,nolink,100%)
+
+グレード：紫色
+
+基本属性：30
+
+魂枠：3個
+
+因縁属性：HP回復+6
+
+因縁武将：武将全員

@@ -1,0 +1,16 @@
+#author("2017-05-02T16:09:58+09:00","default:Admin","Admin")
+[[FrontPage]]
+
+** ロバ [#zcbf4116]
+
+#ref(http://wiki.dragon-blade.jp/image/Uma/BM001.png,nolink,100%)
+
+グレード：青色
+
+基本属性：10
+
+魂枠：2個
+
+因縁属性：なし
+
+因縁武将：なし

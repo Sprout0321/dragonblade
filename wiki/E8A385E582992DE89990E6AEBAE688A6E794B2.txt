@@ -1,0 +1,10 @@
+#author("2017-05-02T16:08:26+09:00","default:Admin","Admin")
+** 虐殺戦甲 [#zcbf4116]
+
+#ref(http://wiki.dragon-blade.jp/image/Soubi/baowu011.png,nolink,100%)
+
+>グレード：橙色
+
+>物理防御：104
+
+>鑑定枠：4個

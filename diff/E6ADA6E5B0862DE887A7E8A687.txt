@@ -1,0 +1,41 @@
+-#author("2017-05-11T14:57:04+09:00","default:Admin","Admin")
++#author("2017-05-11T16:19:46+09:00","default:Admin","Admin")
+ * ''臧覇'' [#n151e840]
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Zouha/Zouha.png,nolink,50%)
+ ** データ  [#qa1c1e8c]
+ >国：中立
+ >グレード：COLOR(#3300FF){普通}
+ >職業：盾兵
+ >統率：72(+0.9)
+ >武力：78(+0.98)
+ >知力：73(+0.92)
+ >評価：物理防御型、敵単体の士気を下げることができる
+ >
+ ** スキル  [#qa1c1e8c]
+ - 馬上横斬り
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Zouha/SK1.png,nolink,50%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Zouha/SK1.jpg,nolink,100%)
+ >範囲内の敵に90の物理ダメージを与え、6秒間、気絶させる
+ 
+ - 怒鳴り
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Zouha/SK2.png,nolink,50%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Zouha/SK2.jpg,nolink,100%)
+ >敵単体に90の物理ダメージを与え、士気を200下げる
+ 
+ - 大地切り
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Zouha/SK3.png,nolink,50%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Zouha/SK3.jpg,nolink,100%)
+ >目標に90の物理ダメージを与え、6秒間、周囲の敵の攻撃速度を35%下げる
+ 
+ - 盾兵防御
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Zouha/SK4.png,nolink,25%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Zouha/SK4.png,nolink,50%)
+ >武将と盾兵の物理防御を4上げる
+ 
+ ** メイン武器  [#qa1c1e8c]
+ - 斬馬刀
+ - 百戦刀
+ - 昆吾残刀
+ - 紫玄冥刀
+ - 竜雀覇刀
+ - 虎豹狂刀

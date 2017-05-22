@@ -1,0 +1,36 @@
++#author("2017-05-08T16:29:00+09:00","default:Admin","Admin")
++* ''トウ茂'' [#n151e840]
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Toumo/Toumo.png,nolink,50%)
++** データ  [#qa1c1e8c]
++>国：中立
++>グレード：COLOR(#3300FF){普通}
++>職業：槍兵
++>統率：61(+0.77)
++>武力：76(+0.95)
++>知力：48(+0.6)
++>評価：全能物理型，スキルキャンセルの特技をもつ
++>
++** スキル  [#qa1c1e8c]
++- 突き叩く
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Toumo/SK1.png,nolink,50%)
++>目標に45の物理ダメージを与え、周囲の敵にも同じダメージを与える
+ 
++- 掃葉棒
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Toumo/SK2.png,nolink,50%)
++>前方の敵に60の物理ダメージを与え、撃退する
++
++- 地叩き
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Toumo/SK3.png,nolink,50%)
++>周囲の敵に60の物理ダメージを与え、叩き伏せる
++
++- 槍兵防御
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Toumo/SK4.png,nolink,25%)
++>武将と槍兵の物理防御4上げる
++
++** メイン武器  [#qa1c1e8c]
++- 火焚棒
++- 打狗棒
++- 斉眉棒
++- 紫雷棒
++- 金輪棒
++- 金鋳鎮山棒

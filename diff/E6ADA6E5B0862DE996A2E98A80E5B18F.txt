@@ -1,0 +1,38 @@
+-#author("2017-05-08T21:05:16+09:00","default:Admin","Admin")
++#author("2017-05-09T10:38:15+09:00","default:Admin","Admin")
+ * ''関銀屏'' [#n151e840]
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Kanginpei/Kanginpei.png,nolink,50%)
+ ** データ  [#qa1c1e8c]
+->国：中立
++>国：蜀国
+ >グレード：COLOR(#993399){優良}
+ >職業：弓兵
+ >統率：151(+1.79)
+ >武力：154(+1.84)
+ >知力：133(+1.58)
+ >評価：全能物理型，優れた生存能力がある。
+ >
+ ** スキル  [#qa1c1e8c]
+ - 巨槌の嵐
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Kanginpei/SK1.png,nolink,100%)
+ >巨槌を回しながら敵に接近する。群れる敵に毎回17の物理ダメージを与える。発動中、関銀屏はダメージを受けない
+ 
+ - 玲瓏刀
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Kanginpei/SK2.png,nolink,100%)
+ >前方範囲内の敵に70の物理ダメージを与える
+ 
+ - 激励
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Kanginpei/SK3.png,nolink,100%)
+ >60秒間、周囲の味方の物理防御を5上げ、生命を63回復する
+ 
+ - 盾兵統領
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Kanginpei/SK4.png,nolink,20%)
+ >武将と盾兵の物理攻撃を4上げる
+ 
+ ** メイン武器  [#qa1c1e8c]
+ - 玲瓏刀
+ - 三才刀
+ - 青冥刀
+ - 玄冥刀
+ - 霹靂雪花刀
+ - 蒼竜刀

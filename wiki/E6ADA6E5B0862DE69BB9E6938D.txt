@@ -1,0 +1,36 @@
+#author("2017-05-09T12:41:11+09:00","default:Admin","Admin")
+* ''曹操'' [#n151e840]
+#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Sousou/Sousou.png,nolink,50%)
+** データ  [#qa1c1e8c]
+>国：魏国
+>グレード：COLOR(#FF9900){名将}
+>職業：盾兵
+>統率：259(+3.27)
+>武力：178(+2.25)
+>知力：248(+3.14)
+>評価：策略ガード型、チームの攻撃力を大幅に増加させることができる
+>
+** スキル  [#qa1c1e8c]
+- 魏武軍魂
+#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Sousou/SK1.png,nolink,100%)
+>8秒間、味方の物理攻撃を20％上げると共に攻撃速度を10％上げる
+
+- 奮起
+#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Sousou/Sk2.png,nolink,100%)
+>12秒間、周りにいる味方の物理攻撃と物理防御を5上げる
+
+- 青州兵
+#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Sousou/SK3.png,nolink,100%)
+>精強な青州兵を召喚。死亡ときに敵を2秒気絶させる。スキルレベルに応じて青州兵の攻撃力、防御力、生命力が高くなる。最大4名まで召喚可能
+
+- 頑丈な大盾
+#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Sousou/SK4.png,nolink,50%)
+>武将と全盾兵の物理防御を4上げる
+
+** メイン武器  [#qa1c1e8c]
+- 短剣
+- 銀光剣
+- 覇業の剣
+- 青虹剣
+- 映日青虹剣
+- 魏武百鋳剣

@@ -1,0 +1,36 @@
++#author("2017-05-08T18:00:46+09:00","default:Admin","Admin")
++* ''張梁'' [#n151e840]
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Tyouryou/Tyouryou.png,nolink,50%)
++** データ  [#qa1c1e8c]
++>国：中立
++>グレード：COLOR(#993399){優良}
++>職業：盾兵
++>統率：104(+1.24)
++>武力：153(+1.82)
++>知力：72(+0.85)
++>評価：物理防御型、優れたHP回復能力を持つ。敵のスキルを中断することが得意
++>
++** スキル  [#qa1c1e8c]
++- 残雲一掃
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Tyouryou/SK1.png,nolink,50%)
++>目標範囲に90の物理ダメージを与え、撃退する
+ 
++- 刀波
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Tyouryou/SK2.png,nolink,50%)
++>目標範囲に60の物理ダメージを与え、撃退する
++
++- 治癒
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Tyouryou/SK3.png,nolink,50%)
++>毎秒自身の生命を4回復する
++
++- 生命強化
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Tyouryou/SK4.png,nolink,25%)
++>自身のHP上限を8%上げる
++
++** メイン武器  [#qa1c1e8c]
++- 精鋼刀
++- 鳴鴻刀
++- 沈虹斬
++- 竜鱗刀
++- 九天神罰刀
++- 黄天大斫刀

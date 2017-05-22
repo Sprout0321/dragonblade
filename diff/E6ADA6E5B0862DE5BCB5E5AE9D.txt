@@ -1,0 +1,40 @@
+-#author("2017-05-08T17:56:41+09:00","default:Admin","Admin")
++#author("2017-05-11T16:06:39+09:00","default:Admin","Admin")
+ * ''張宝'' [#n151e840]
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Tyouhou/Tyouhou.png,nolink,50%)
+ ** データ  [#qa1c1e8c]
+ >国：中立
+ >グレード：COLOR(#3300FF){普通}
+ >職業：槍兵
+ >統率：79(+0.99)
+ >武力：64(+0.8)
+ >知力：88(+1.1)
+ >評価：策略ガード型、策略に対する防御が優れている。作戦補助が得意
+ >
+ ** スキル  [#qa1c1e8c]
+ - 石柱の術
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Tyouhou/SK1.png,nolink,50%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Tyouhou/SK1.png,nolink,25%)
+ >前方200ヤードの所に巨大な石柱を召喚する。範囲内の敵を吹き飛ばし、90の策略ダメージを与える
+ 
+ - 太平術
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Tyouhou/SK2.png,nolink,50%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Tyouhou/SK2.png,nolink,25%)
+ >6秒間、危機に陥っている味方のHPを242、物理防御を10上げる
+ 
+ - 蝕甲の術
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Tyouhou/SK3.png,nolink,50%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Tyouhou/SK3.png,nolink,25%)
+ >範囲内の敵に呪いを放ち、12秒間、物理防御を10下げる
+ 
+ - 槍兵防御
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Tyouhou/SK4.png,nolink,25%)
+ >武将と槍兵の物理防御を4上げる
+ 
+ ** メイン武器  [#qa1c1e8c]
+ - 檀木杖
+ - 黒檀杖
+ - 玄木杖
+ - 紫火紅纓杖
+ - 神木玄金杖
+ - 八方鎮仙杖

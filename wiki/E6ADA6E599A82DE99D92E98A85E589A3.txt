@@ -1,0 +1,10 @@
+#author("2017-05-02T16:06:15+09:00","default:Admin","Admin")
+** 青銅剣 [#zcbf4116]
+
+#ref(http://wiki.dragon-blade.jp/image/Buki/baowu001.png,nolink,100%)
+
+>グレード：緑色
+
+>物理攻撃：18
+
+>鑑定枠：1個

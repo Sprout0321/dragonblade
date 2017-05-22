@@ -1,0 +1,36 @@
+#author("2017-05-08T15:28:56+09:00","default:Admin","Admin")
+* ''董卓'' [#n151e840]
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Toutaku/Toutaku.png,nolink,40%)
+** データ  [#qa1c1e8c]
+>国：中立
+>グレード：COLOR(#993399){優良}
+>職業：盾兵
+>統率：154(+1.84)
+>武力：178(+2.18)
+>知力：111(+1.33)
+>評価：物理防御型、血の気が多い、操作系の能力が得意
+>
+** スキル  [#qa1c1e8c]
+- 大暴れ
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Toutaku/SK1.png,nolink,50%)
+>敵に向かって回転し、範囲内の敵に22の物理ダメージを3回与え、相手を自分の方へ引き寄せる
+
+- 浸欲
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Toutaku/SK2.png,nolink,50%)
+>自身の生命を363回復し、12秒間、物理防御を5上げる
+
+- 蹂躙
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Toutaku/SK3.png,nolink,50%)
+>目標範囲に23の物理ダメージを3回与え、敵を撃退する
+
+- 物防強化
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Toutaku/SK4.png,nolink,25%)
+>武将自身の物理防御を6上げる
+
+** メイン武器  [#qa1c1e8c]
+- 狼牙棒
+- 毒牙棒
+- 砕辰棒
+- 玄武棒
+- 魔炎裂天棒
+- 魔気屠殺棒

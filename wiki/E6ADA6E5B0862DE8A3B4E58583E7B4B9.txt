@@ -1,0 +1,36 @@
+#author("2017-05-08T20:12:05+09:00","default:Admin","Admin")
+* ''裴元紹'' [#n151e840]
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Haigensyou/Haigensyou.png,nolink,50%)
+** データ  [#qa1c1e8c]
+>国：中立
+>グレード：COLOR(#3300FF){普通}
+>職業：騎兵
+>統率：74(+0.93)
+>武力：65(+0.82)
+>知力：58(+0.73)
+>評価：物理攻撃型、相手の士気を盗むことができる
+>
+** スキル  [#qa1c1e8c]
+- 連続踏み
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Haigensyou/SK1.png,nolink,50%)
+>3連続踏みつけて、周囲の敵に35の物理ダメージを与える
+
+- 疾走
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Haigensyou/SK2.png,nolink,50%)
+>11%の確率で敵攻撃を回避し、12秒間、攻撃速度を16%上げる
+
+- 打圧
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Haigensyou/SK3.png,nolink,50%)
+>敵単体に90の物理ダメージを与え、士気を30盗み取る
+
+- 騎兵防御
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Haigensyou/SK4.png,nolink,25%)
+>武将と騎兵の物理防御を4上げる
+
+** メイン武器  [#qa1c1e8c]
+- 錐槍
+- 白木槍
+- 輪形槍
+- 十字鎌槍
+- 暴雨梨花槍
+- 砕石点鋼槍

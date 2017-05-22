@@ -1,0 +1,36 @@
++#author("2017-05-08T17:05:43+09:00","default:Admin","Admin")
++* ''皇甫嵩'' [#n151e840]
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kouhosuu/Kouhosuu.png,nolink,50%)
++** データ  [#qa1c1e8c]
++>国：中立
++>グレード：COLOR(#3300FF){普通}
++>職業：槍兵
++>統率：90(+1.13)
++>武力：77(+0.97)
++>知力：66(+0.83)
++>評価：物理攻撃型、良い統兵能力と複数の敵の自由を奪うスキルを持つ。
++>
++** スキル  [#qa1c1e8c]
++- 斧鉤
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kouhosuu/SK1.png,nolink,50%)
++>前方範囲内の敵に60の物理ダメージを与え、6秒間、気絶させる
+ 
++- 怒罵
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kouhosuu/SK2.png,nolink,50%)
++>敵に90の物理ダメージを与え、6秒間、物理防御を5下げる
++
++- 粉砕
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kouhosuu/SK3.png,nolink,50%)
++>巨斧を振り下ろし、周囲の敵に90の物理ダメージを与える
++
++- 槍兵統領
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kouhosuu/SK4.png,nolink,25%)
++>武将と槍兵の物理攻撃を4上げる
++
++** メイン武器  [#qa1c1e8c]
++- 砍柴斧
++- 劈山斧
++- 宣花斧
++- 裂地戦斧
++- 開天神斧
++- 劈地神斧

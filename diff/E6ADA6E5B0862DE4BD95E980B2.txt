@@ -1,0 +1,36 @@
++#author("2017-05-08T16:40:42+09:00","default:Admin","Admin")
++* ''何進'' [#n151e840]
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kasin/Kasin.png,nolink,50%)
++** データ  [#qa1c1e8c]
++>国：中立
++>グレード：COLOR(#3300FF){普通}
++>職業：盾兵
++>統率：95(+1.11)
++>武力：100(+1.17)
++>知力：71(+0.84)
++>評価：物理防御型、自分でHPを回復ができる、スキル使用時、無敵状態となる
++>
++** スキル  [#qa1c1e8c]
++- 鉄壁
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kasin/SK1.png,nolink,50%)
++>8秒間、ダメージ受けなくなり、生命回復速度を20上げる
+ 
++- 生命活性化
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kasin/SK2.png,nolink,50%)
++>自身の生命を363回復する
++
++- 泰山圧頂
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kasin/SK3.png,nolink,50%)
++>目標範囲に60の物理ダメージを与え、押し潰す
++
++- 物防強化
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kasin/SK4.png,nolink,25%)
++>武将自身の物理防御を6上げる
++
++** メイン武器  [#qa1c1e8c]
++- 黒鉄腕輪
++- 青銅腕輪
++- 秘銀腕輪
++- 牛魔腕輪
++- 百獣獅子腕
++- 麒麟震天腕

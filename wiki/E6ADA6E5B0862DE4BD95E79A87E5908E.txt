@@ -1,0 +1,36 @@
+#author("2017-05-08T16:37:31+09:00","default:Admin","Admin")
+* ''何皇后'' [#n151e840]
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kataikou/Kataikou.png,nolink,50%)
+** データ  [#qa1c1e8c]
+>国：中立
+>グレード：COLOR(#3300FF){普通}
+>職業：盾兵
+>統率：53(+0.63)
+>武力：58(+0.69)
+>知力：88(+1.03)
+>評価：策略辅助型，味方の士気がアップするスピードをブーストすることができる
+>
+** スキル  [#qa1c1e8c]
+- 高揚の舞
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kataikou/SK1.png,nolink,50%)
+>自分以外の味方武将の士気を20上げる
+
+- 大雑把
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kataikou/SK2.png,nolink,50%)
+>味方の士気が最も高い武将の士気を15上げる
+
+- 狸
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kataikou/SK3.png,nolink,50%)
+>狸を出して範囲内の敵に60の策略ダメージを与え、8秒間、攻撃速度と移動速度を16%下げる
+
+- 捲土重来
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kataikou/SK4.png,nolink,25%)
+>毎秒メンバーの生命を3回復する
+
+** メイン武器  [#qa1c1e8c]
+- 銀指
+- 霊犀指
+- 荷露指
+- 竜祥指
+- 天禧指
+- 皇母指

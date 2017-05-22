@@ -1,0 +1,36 @@
+#author("2017-05-08T15:20:44+09:00","default:Admin","Admin")
+* ''文醜'' [#n151e840]
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Bunsyuu/Bunsyuu.png,nolink,45%)
+** データ  [#qa1c1e8c]
+>国：中立
+>グレード：COLOR(#FF9900){名将}
+>職業：騎兵
+>統率：173(+2.19)
+>武力：237(+2.98)
+>知力：143(+1.82)
+>評価：物理防御型、敵のスキルをキャンセルする特技をもつ。また、相手の攻撃を跳ね返すことができる
+>
+** スキル  [#qa1c1e8c]
+- 絶地反撃
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Bunsyuu/SK1.png,nolink,25%)
+>18秒間、ダメージを受けると20の物理ダメージで反撃する、さらに自身が受ける策略攻撃を30%下げさせる
+
+- 衝突
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Bunsyuu/SK2.png,nolink,25%)
+>範囲内の敵に90の物理ダメージを与え、吹き飛ばす
+
+- 堅盾
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Bunsyuu/SK3.png,nolink,25%)
+>12秒間、自身と騎兵の物理防御を15上げる、さらにクリティカル抵抗を2%UPさせる
+
+- 強靭の鉄騎
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Bunsyuu/SK4.png,nolink,25%)
+>武将と全騎兵の物理防御を4上げる。
+
+** メイン武器  [#qa1c1e8c]
+- 丸木盾
+- 鉄辺盾
+- 精鋼盾
+- 嵌銀盾
+- 崇主金盾
+- 図紋百朝盾

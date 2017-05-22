@@ -1,0 +1,36 @@
+#author("2017-05-11T14:47:26+09:00","default:Admin","Admin")
+* ''顔良'' [#n151e840]
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ganryou/Ganryou.png,nolink,50%)
+** データ  [#qa1c1e8c]
+>国：中立
+>グレード：COLOR(#993399){優良}
+>職業：騎兵
+>統率：180(+2.28)
+>武力：233(+2.93)
+>知力：147(+1.86)
+>評価：物理攻撃型、複数攻撃に優れている、士気の増加速度が極めて速い
+>
+** スキル  [#qa1c1e8c]
+- 奏殺
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ganryou/SK1.png,nolink,25%)
+>範囲内の敵に2回攻撃し、毎回42の物理ダメージを与える
+
+- 躍撃
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ganryou/SK2.png,nolink,25%)
+>前方に一定距離の跳躍をし、着陸地点の周囲に60の物理攻撃を与える。自身は4秒間、回避能力を100%上げる
+
+- 抜刀
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ganryou/SK3.png,nolink,25%)
+>群れる敵に60の物理ダメージを与え、自身の士気を40上げる
+
+- 進撃の騎兵
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Ganryou/SK4.png,nolink,25%)
+>武将と全騎兵の物理攻撃を4上げる
+
+** メイン武器  [#qa1c1e8c]
+- 濶刀
+- 大濶刀
+- 怒海刀
+- 鎮海刀
+- 追浪の刀
+- 漲天の刀

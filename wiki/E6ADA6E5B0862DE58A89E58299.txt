@@ -1,0 +1,36 @@
+#author("2017-05-08T14:27:22+09:00","default:Admin","Admin")
+* ''劉備'' [#n151e840]
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Ryubi/Ryubi.png,nolink,50%)
+** データ  [#qa1c1e8c]
+>国：蜀国
+>グレード：COLOR(#FF9900){名将}
+>職業：盾兵
+>統率：206(+2.62)
+>武力：189(+2.4)
+>知力：193(+2.42)
+>評価：総合物理型、攻守兼備、チームの中リーダー的人物。
+>
+** スキル  [#qa1c1e8c]
+- 援護
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Ryubi/SK1.png,nolink,50%)
+>6秒間にわらり、周囲にいる味方の物理攻撃力を10上げ、同時に敵の物理攻撃と策略攻撃を防ぐ
+
+- 戦意高揚
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Ryubi/SK2.png,nolink,50%)
+>12秒間、周囲の味方の物理防御を5上げる
+
+- 竜鳳斬
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Ryubi/SK3.png,nolink,50%)
+>前方小範囲内の敵に70の物理ダメージを与え、さらに4秒間、敵の物理防御を5下げる
+
+- 頑丈な大盾
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Ryubi/SK4.png,nolink,25%)
+>武将と全盾兵の物理防御を4上げる
+
+** メイン武器  [#qa1c1e8c]
+- 雌雄剣
+- 陰陽剣
+- 天地剣
+- 雌雄双股剣
+- 天地双股剣
+- 両儀帰一剣

@@ -1,0 +1,18 @@
+-#author("2017-05-02T10:12:18+09:00","default:Admin","Admin")
++#author("2017-05-02T16:11:12+09:00","default:Admin","Admin")
+ [[FrontPage]]
+ 
+ ** 黒雲 [#zcbf4116]
+ 
+-#ref(http://wiki.dragon-blade.jp/image/Uma/BM005.png,100%)
++#ref(http://wiki.dragon-blade.jp/image/Uma/BM005.png,nolink,100%)
+ 
+ グレード：橙色
+ 
+ 基本属性：32
+ 
+ 魂枠：4個
+ 
+ 因縁属性：策略ダメージ減少+5%
+ 
+ 因縁武将：賈ク、貂蝉、張飛、典韋

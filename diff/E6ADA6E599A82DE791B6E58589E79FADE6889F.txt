@@ -1,0 +1,17 @@
+-#author("2017-05-02T16:04:57+09:00","default:Admin","Admin")
++#author("2017-05-02T16:05:02+09:00","default:Admin","Admin")
+ ** 瑶光短戟 [#zcbf4116]
+ 
+-#ref(http://wiki.dragon-blade.jp/image/Buki/baowu50.png,nolink,100%)
++#ref(http://wiki.dragon-blade.jp/image/Buki/baowu50.png,nolink,nolink,100%)
+ 
+ >グレード：橙色
+ 
+ >物理攻撃：132
+ 
+ >鑑定枠：4個
+ 
+ >セット属性：
+ >2件　攻撃士気回復+4
+ >3件　策略防御+72
+ >4件　攻撃士気回復+8

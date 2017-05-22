@@ -1,0 +1,41 @@
+-#author("2017-05-09T10:56:16+09:00","default:Admin","Admin")
++#author("2017-05-09T10:57:24+09:00","default:Admin","Admin")
+ * ''夏侯淵'' [#n151e840]
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Kakouen/Kakouen.png,nolink,50%)
+ ** データ  [#qa1c1e8c]
+ >国：魏国
+ >グレード：COLOR(#FF9900){名将}
+ >職業：騎兵
+ >統率：209(+2.63)
+ >武力：226(+2.85)
+ >知力：158(+1.99)
+ >評価：策略遠距離攻撃型、攻撃する際はいつも敵と距離を置く
+ >
+ ** スキル  [#qa1c1e8c]
+ - 連環狙撃
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Kakouen/SK1.png,nolink,50%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Kakouen/SK1.png,nolink,100%)
+ >目標に3連撃を浴びせ、44,66,110の物理ダメージを与える、さらに4秒間、気絶させる
+ 
+ - 爆破矢
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Kakouen/SK2.png,nolink,50%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Kakouen/SK2.png,nolink,100%)
+ >目標範囲内の敵に60の物理ダメージを与え撃退し、自分も後退する
+ 
+ - 縄縛り
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Kakouen/SK3.png,nolink,50%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Kakouen/SK3.png,nolink,100%)
+ >範囲内の敵に30の物理ダメージを与え、4秒間物理防御を5下げ、移動制限をかける
+ 
+ - 進撃の騎兵
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Kakouen/SK4.png,nolink,25%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Kakouen/SK4.png,nolink,50%)
+ >武将と全騎兵の物理攻撃を4上げる
+ 
+ ** メイン武器  [#qa1c1e8c]
+ - 猎弓
+ - 追命弓
+ - 猎户长弓
+ - 三发猎弓
+ - 银色狼牙弓
+ - 夺命连环弓

@@ -1,0 +1,36 @@
+#author("2017-05-08T20:15:54+09:00","default:Admin","Admin")
+* ''貂蝉'' [#n151e840]
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Tyousen/Tyousen.png,nolink,50%)
+** データ  [#qa1c1e8c]
+>国：中立
+>グレード：COLOR(#FF9900){名将}
+>職業：弓兵
+>統率：99(+1.28)
+>武力：134(+1.72)
+>知力：187(+2.37)
+>評価：策略補助型、敵を魅了することが得意で、敵軍の士気を抑える
+>
+** スキル  [#qa1c1e8c]
+- 傾城傾国
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Tyousen/SK1.png,nolink,50%)
+>5秒間、全敵武将の物理攻撃力と策略攻撃力を25下げる、さらに、士気を30低下させる
+
+- 魅惑
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Tyousen/SK2.png,nolink,50%)
+>4秒間、ランダムで敵の攻撃力を10%下げる、さらに30%の確率で、敵を味方陣営に引き入れる
+
+- 慰撫
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Tyousen/SK3.png,nolink,50%)
+>HPが最も低い武将とその範囲内の味方全員の生命を63回復させる。さらに8秒の間、35%の確率でダメージを回避する
+
+- 戦鼓雷鳴
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Tyousen/SK4.png,nolink,25%)
+>武将自身の士気回復速度を1.2上げる
+
+** メイン武器  [#qa1c1e8c]
+- 綉花球
+- 千糸綉
+- 月息綉
+- 丹鳳綉
+- 雅蘭紅
+- 羅舞百秀布

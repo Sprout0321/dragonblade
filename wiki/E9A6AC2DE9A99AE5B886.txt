@@ -1,0 +1,16 @@
+#author("2017-05-02T16:11:06+09:00","default:Admin","Admin")
+[[FrontPage]]
+
+** 驚帆 [#zcbf4116]
+
+#ref(http://wiki.dragon-blade.jp/image/Uma/BM006.png,nolink,100%)
+
+グレード：橙色
+
+基本属性：32
+
+魂枠：4個
+
+因縁属性：物理ダメージ減少+5%
+
+因縁武将：李儒、董卓、夏侯渊

@@ -1,0 +1,15 @@
+#author("2017-05-02T16:07:19+09:00","default:Admin","Admin")
+** 瑶光竜首飾 [#zcbf4116]
+
+#ref(http://wiki.dragon-blade.jp/image/Soubi/baowu54.png,nolink,100%)
+
+>グレード：橙色
+
+>最大HP：506
+
+>鑑定枠：4個
+
+>セット属性：
+>2件　攻撃士気回復+4
+>3件　策略防御+72
+>4件　攻撃士気回復+8

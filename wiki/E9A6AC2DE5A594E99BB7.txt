@@ -1,0 +1,16 @@
+#author("2017-05-02T16:10:09+09:00","default:Admin","Admin")
+[[FrontPage]]
+
+** 奔雷 [#zcbf4116]
+
+#ref(http://wiki.dragon-blade.jp/image/Uma/BM0011.png,nolink,100%)
+
+グレード：橙色
+
+基本属性：32
+
+魂枠：4個
+
+因縁属性：物理攻撃+12
+
+因縁武将：趙雲、孫竪、許チョ、歩練師

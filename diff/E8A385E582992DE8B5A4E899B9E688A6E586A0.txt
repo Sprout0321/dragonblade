@@ -1,0 +1,17 @@
+-#author("2017-05-02T10:33:17+09:00","default:Admin","Admin")
++#author("2017-05-02T16:08:32+09:00","default:Admin","Admin")
+ ** 赤虹戦冠 [#zcbf4116]
+ 
+-#ref(http://wiki.dragon-blade.jp/image/Soubi/baowu48.png,100%)
++#ref(http://wiki.dragon-blade.jp/image/Soubi/baowu48.png,nolink,100%)
+ 
+ >グレード：橙色
+ 
+ >策略防御：132
+ 
+ >鑑定枠：4個
+ 
+ >セット属性：
+ >2件　最大HP+1000
+ >3件　物理防御+72
+ >4件　攻撃速度+15%

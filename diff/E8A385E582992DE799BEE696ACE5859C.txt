@@ -1,0 +1,12 @@
+-#author("2017-05-02T10:35:03+09:00","default:Admin","Admin")
++#author("2017-05-02T16:07:58+09:00","default:Admin","Admin")
+ ** 百斬兜 [#zcbf4116]
+ 
+-#ref(http://wiki.dragon-blade.jp/image/Soubi/baowu025.png,100%)
++#ref(http://wiki.dragon-blade.jp/image/Soubi/baowu025.png,nolink,100%)
+ 
+ >グレード：橙色
+ 
+ >策略防御：104
+ 
+ >鑑定枠：4個

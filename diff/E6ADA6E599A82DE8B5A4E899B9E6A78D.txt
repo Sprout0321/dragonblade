@@ -1,0 +1,17 @@
+-#author("2017-05-02T10:18:39+09:00","default:Admin","Admin")
++#author("2017-05-02T16:05:16+09:00","default:Admin","Admin")
+ ** 赤虹槍 [#zcbf4116]
+ 
+-#ref(http://wiki.dragon-blade.jp/image/Buki/baowu45.png,100%)
++#ref(http://wiki.dragon-blade.jp/image/Buki/baowu45.png,nolink,100%)
+ 
+ >グレード：橙色
+ 
+ >物理攻撃：132
+ 
+ >鑑定枠：4個
+ 
+ >セット属性：
+ >2件　最大HP+1000
+ >3件　物理防御+72
+ >4件　攻撃速度+15%

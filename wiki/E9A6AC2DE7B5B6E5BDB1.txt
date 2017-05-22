@@ -1,0 +1,16 @@
+#author("2017-05-02T16:10:53+09:00","default:Admin","Admin")
+[[FrontPage]]
+
+** 絶影 [#zcbf4116]
+
+#ref(http://wiki.dragon-blade.jp/image/Uma/BM0012.png,nolink,100%)
+
+グレード：橙色
+
+基本属性：32
+
+魂枠：4個
+
+因縁属性：全ダメージ増加+
+
+因縁武将：張遼、孫尚香、張角、周瑜

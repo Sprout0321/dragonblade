@@ -1,0 +1,36 @@
+#author("2017-05-08T16:16:14+09:00","default:Admin","Admin")
+* ''管亥'' [#n151e840]
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kangai/Kangai.png,nolink,50%)
+** データ  [#qa1c1e8c]
+>国：中立
+>グレード：COLOR(#3300FF){普通}
+>職業：騎兵
+>統率：64(+0.8)
+>武力：71(+0.89)
+>知力：42(+0.53)
+>評価：物理攻撃型，能力は普通。
+>
+** スキル  [#qa1c1e8c]
+- 鉄盾
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kangai/SK1.png,nolink,50%)
+>群れる敵に90の物理ダメージを与え、弾き飛ばす
+
+- 踏みつけ
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kangai/SK2.png,nolink,50%)
+>群れる敵に60の物理ダメージを与え、6秒間、攻撃速度を25%下げる
+
+- 破甲
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kangai/SK3.png,nolink,50%)
+>敵単体に90の物理ダメージを与え、6秒間、物理防御10下げる
+
+- 騎兵統領
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kangai/SK4.png,nolink,25%)
+>武将と騎兵の物理攻撃を4上げる
+
+** メイン武器  [#qa1c1e8c]
+- 梅花槍
+- 烈水槍
+- 葦葉槍
+- 泉滴槍
+- 狼牙尖槍
+- 覇王竜尖槍

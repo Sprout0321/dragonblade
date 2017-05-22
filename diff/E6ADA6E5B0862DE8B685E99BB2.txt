@@ -1,0 +1,42 @@
+-#author("2017-05-08T14:24:29+09:00","default:Admin","Admin")
++#author("2017-05-08T14:24:52+09:00","default:Admin","Admin")
+ * ''超雲'' [#n151e840]
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Tyouun/Tyouun.png,nolink,50%)
+ ** データ  [#qa1c1e8c]
+ >国：蜀国
+ >グレード：COLOR(#FF9900){名将}
+ >職業：槍兵
+ >統率：195(+2.47)
+ >武力：246(+3.09)
+ >知力：178(+2.25)
+ >評価：全能物理型，攻防に優れ，敵陣に対して深く切り込む事が得意
+ >
+ ** スキル  [#qa1c1e8c]
+ - 雲竜翔天
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Tyouun/SK1.png,nolink,25%)
+ >広範囲の敵に33の物理ダメージを6回与える
+ 
+ - 游竜尾撃
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Tyouun/SK2.png,nolink,25%)
+ >敵を吹き飛ばして叩き落とす。敵単体に50とその周囲の敵に61の物理ダメージを与える。さらに6秒の間、
+ 
+ 物理攻撃力を10UPする
+ 
+ - 淵竜出撃
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Tyouun/SK3.png,nolink,25%)
+ >前方に突進する。軌道上にいる敵に60の物理ダメージを3回与え、撃退する。さらに5秒の間、ダメージを
+ 
+ 10%減少させる
+ 
+ - 物防強化
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Tyouun/SK4.png,nolink,50%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Tyouun/SK4.png,nolink,25%)
+ >武将自身の物理防御を6上げる
+ 
+ ** メイン武器  [#qa1c1e8c]
+ - 雲英槍
+ - 雲竜槍
+ - 出淵槍
+ - 翔天槍
+ - 一閃竜吟槍
+ - 出雲竜嘯槍

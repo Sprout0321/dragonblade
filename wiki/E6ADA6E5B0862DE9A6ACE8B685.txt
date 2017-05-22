@@ -1,0 +1,36 @@
+#author("2017-05-09T10:56:10+09:00","default:Admin","Admin")
+* ''馬超'' [#n151e840]
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Batyou/Batyou.png,nolink,45%)
+** データ  [#qa1c1e8c]
+>国：蜀国
+>グレード：COLOR(#FF9900){名将}
+>職業：騎兵
+>統率：206(+2.62)
+>武力：255(+3.2)
+>知力：169(+2.16)
+>評価：物理攻撃型、敵後方への不意打ちが得意、強力なダメージを持つ
+>
+** スキル  [#qa1c1e8c]
+- 往生一途
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Batyou/SK1.png,nolink,100%)
+>目標範囲に105の物理ダメージを与え、攻撃される敵が多いほどダメージが高くなる
+
+- 殺伐道
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Batyou/SK2.png,nolink,100%)
+>軌道上にいる敵に30の物理ダメージを与え撃退し、2秒間、自身の攻撃速度と移動速度を300%上げる
+
+- 喪風
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Batyou/SK3.png,nolink,100%)
+>周りの敵に20の物理ダメージを与え、4秒間、敵の攻撃速度を40%下げる
+
+- 物防強化
+#ref(http://wiki.dragon-blade.jp/image/Busyo/syo/Batyou/SK4.png,nolink,20%)
+>武将自身の物理防御を6上げる
+
+** メイン武器  [#qa1c1e8c]
+- 長鉄槍
+- 西涼鉄槍
+- 鉈鎌槍
+- 征戦の矛
+- 西風葬野槍
+- 一躍藍光槍

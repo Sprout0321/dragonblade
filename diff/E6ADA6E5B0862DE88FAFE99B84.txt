@@ -1,0 +1,38 @@
+-#author("2017-05-11T14:42:26+09:00","default:Admin","Admin")
++#author("2017-05-11T14:42:35+09:00","default:Admin","Admin")
+ * ''華雄'' [#n151e840]
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kaou/Kaou.png,nolink,50%)
+ ** データ  [#qa1c1e8c]
+ >国：中立
+ >グレード：COLOR(#993399){優良}
+ >職業：騎兵
+ >統率：165(+1.95)
+ >武力：176(+2.33)
+ >知力：144(+1.75)
+ >評価：策略補助型、チームの攻撃速度と策略攻撃力をアップさせる。
+ >
+ ** スキル  [#qa1c1e8c]
+ - 墜槌
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kaou/SK1.png,nolink,50%)
+ >範囲内の敵に90の物理ダメージを与え、6秒間、気絶させる
+ 
+ - 鞭打ち
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kaou/SK2.png,nolink,50%)
+ >目標範囲内の的に23の物理ダメージを与え、目標のブースト効果を消す
+ 
+ - 天鉤
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kaou/SK3.png,nolink,50%)
+ >自分から最も遠い敵を隣に引き寄せて、90の物理ダメージを与える
+ 
+ - 騎兵統領
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kaou/SK4.png,nolink,50%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Kaou/SK4.png,nolink,25%)
+ >武将と騎兵の物理攻撃を4上げる
+ 
+ ** メイン武器  [#qa1c1e8c]
+ - 流星鎚
+ - 大流星鎚
+ - 博浪鎚
+ - 銀光流星鎚
+ - 破天流星鎚
+ - 焚天隕石鎚

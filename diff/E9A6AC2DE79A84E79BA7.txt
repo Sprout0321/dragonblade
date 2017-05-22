@@ -1,0 +1,18 @@
+-#author("2017-05-02T10:11:04+09:00","default:Admin","Admin")
++#author("2017-05-02T16:10:48+09:00","default:Admin","Admin")
+ [[FrontPage]]
+ 
+ ** 的盧 [#zcbf4116]
+ 
+-#ref(http://wiki.dragon-blade.jp/image/Uma/BM009.png,100%)
++#ref(http://wiki.dragon-blade.jp/image/Uma/BM009.png,nolink,100%)
+ 
+ グレード：橙色
+ 
+ 基本属性：32
+ 
+ 魂枠：4個
+ 
+ 因縁属性：最大HP+256
+ 
+ 因縁武将：劉備、周泰、文醜、王元姫

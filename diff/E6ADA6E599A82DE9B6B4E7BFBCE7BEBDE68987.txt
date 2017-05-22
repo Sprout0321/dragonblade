@@ -1,0 +1,12 @@
+-#author("2017-05-02T10:17:02+09:00","default:Admin","Admin")
++#author("2017-05-02T16:06:20+09:00","default:Admin","Admin")
+ ** 鶴翼羽扇 [#zcbf4116]
+ 
+-#ref(http://wiki.dragon-blade.jp/image/Buki/baowu039.png,100%)
++#ref(http://wiki.dragon-blade.jp/image/Buki/baowu039.png,nolink,100%)
+ 
+ >グレード：橙色
+ 
+ >策略攻撃：104
+ 
+ >鑑定枠：4個

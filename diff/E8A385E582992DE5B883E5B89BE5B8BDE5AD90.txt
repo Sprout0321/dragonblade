@@ -1,0 +1,12 @@
+-#author("2017-05-02T10:37:37+09:00","default:Admin","Admin")
++#author("2017-05-02T16:06:38+09:00","default:Admin","Admin")
+ ** 布帛帽子 [#zcbf4116]
+ 
+-#ref(http://wiki.dragon-blade.jp/image/Soubi/baowu022.png,100%)
++#ref(http://wiki.dragon-blade.jp/image/Soubi/baowu022.png,nolink,100%)
+ 
+ >グレード：緑色
+ 
+ >策略防御：18
+ 
+ >鑑定枠：1個

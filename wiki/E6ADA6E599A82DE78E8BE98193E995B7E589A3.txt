@@ -1,0 +1,10 @@
+#author("2017-05-02T16:04:39+09:00","default:Admin","Admin")
+** 王道長剣 [#zcbf4116]
+
+#ref(http://wiki.dragon-blade.jp/image/Buki/baowu004.png,nolink,100%)
+
+>グレード：橙色
+
+>物理攻撃：104
+
+>鑑定枠：4個

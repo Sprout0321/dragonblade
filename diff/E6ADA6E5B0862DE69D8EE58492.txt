@@ -1,0 +1,40 @@
+-#author("2017-05-08T19:20:13+09:00","default:Admin","Admin")
++#author("2017-05-08T19:20:49+09:00","default:Admin","Admin")
+ * ''李儒'' [#n151e840]
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Rijyu/Rijyu.png,nolink,50%)
+ ** データ  [#qa1c1e8c]
+ >国：中立
+->グレード：COLOR(#3300FF){名将}
++>グレード：COLOR(#FF9900){名将}
+ >職業：弓兵
+ >統率：149(+1.89)
+ >武力：136(+1.73)
+ >知力：195(+2.47)
+ >評価：全能策略型、毒攻撃が得意で、策略による複数敵への攻撃に優れている
+ >
+ ** スキル  [#qa1c1e8c]
+ - 毒の蛙
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Rijyu/SK1.png,nolink,50%)
+ >範囲内の敵に90の策略ダメージを与え、8秒間、毎秒10の毒ダメージを与える
+ 
+ - 毒薬の瓶
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Rijyu/SK2.png,nolink,50%)
+ >範囲内の敵に毎回60の策略ダメージを与え、12秒間、毎秒10の毒ダメージを与える
+ 
+ - 屍毒
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Rijyu/SK3.png,nolink,50%)
+ >死亡時に自爆。広範囲の敵に60の策略ダメージを与え、8秒間、毎秒10の毒ダメージを与え、移動速度を85%
+ 
+ 下げる
+ 
+ - 戦鼓雷鳴
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Rijyu/SK4.png,nolink,25%)
+ >武将自身の士気回復速度を1.2上げる
+ 
+ ** メイン武器  [#qa1c1e8c]
+ - 硫酸瓶
+ - 青玉瓶
+ - ガラス瓶
+ - 七彩ガラス瓶
+ - 神鬼ガラス瓶
+ - 百毒化骨盃

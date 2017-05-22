@@ -1,0 +1,36 @@
++#author("2017-05-09T12:43:02+09:00","default:Admin","Admin")
++* ''張遼'' [#n151e840]
++#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Tyoryo/Tyoryo.png,nolink,50%)
++** データ  [#qa1c1e8c]
++>国：魏国
++>グレード：COLOR(#FF9900){名将}
++>職業：槍兵
++>統率：242(+3.05)
++>武力：228(+2.86)
++>知力：193(+2.42)
++>評価：近距離物理攻撃型、素早い動きで敵に連続攻撃を与えることができる
++>
++** スキル  [#qa1c1e8c]
++- 万鬼啼き
++#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Tyoryo/SK1.png,nolink,25%)
++>範囲内の敵に毎回25の物理ダメージを与え、弾き飛ばす。発動中は無敵状態になる
+ 
++- 軍神
++#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Tyoryo/SK2.png,nolink,25%)
++>敵を弾き飛ばして自身の異常状態を解除し、さらに12秒間自身の攻撃速度を35％上げ、20%の確率で敵の攻撃を回避する
++
++- 地裂斬
++#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Tyoryo/SK3.png,nolink,25%)
++>軌道上にいる敵に22の物理ダメージを与え、3秒間にわたり毎秒10のHPを回復する
++
++- 迎撃の長槍
++#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Tyoryo/SK4.png,nolink,25%)
++>武将と全槍兵の物理防御を4上げる
++
++** メイン武器  [#qa1c1e8c]
++- 大斫刀
++- 関刀
++- 濶軍刀
++- 破虜長刀
++- 夜鬼鳴動刀
++- 撃滅殺伐刀

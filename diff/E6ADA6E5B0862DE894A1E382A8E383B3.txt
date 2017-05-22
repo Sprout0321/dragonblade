@@ -1,0 +1,36 @@
++#author("2017-05-09T11:31:09+09:00","default:Admin","Admin")
++* ''蔡エン'' [#n151e840]
++#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Saien/Saien.png,nolink,50%)
++** データ  [#qa1c1e8c]
++>国：魏国
++>グレード：COLOR(#993399){優良}
++>職業：弓兵
++>統率：117(+1.4)
++>武力：118(+1.41)
++>知力：154(+1.84)
++>評価：策略補助型、仲間にいち早く必殺技を放たせることができる
++>
++** スキル  [#qa1c1e8c]
++- 胡笳十八拍
++#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Saien/SK1.png,nolink,25%)
++>全軍のHPを63回復し、異常状態を解除する
+ 
++- 鼓舞
++#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Saien/SK2.png,nolink,25%)
++>味方の士気が最も高い武将の士気を30上げる
++
++- 悲憤詩
++#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Saien/SK3.png,nolink,25%)
++>自軍のHPが最も低い武将を242回復する、12秒間、策略防御を10UPする
++
++- 弓兵防御
++#ref(http://wiki.dragon-blade.jp/image/Busyo/ii/Saien/SK4.png,nolink,25%)
++>武将と弓兵の物理防御を4上げる
++
++** メイン武器  [#qa1c1e8c]
++- 竹笛
++- 長笛
++- 翡翠笛
++- 無暇玉笛
++- 巻雲碧玉笛
++- 青巻雲仙笛

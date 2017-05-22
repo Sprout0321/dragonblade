@@ -1,0 +1,36 @@
+#author("2017-05-08T16:57:37+09:00","default:Admin","Admin")
+* ''韓忠'' [#n151e840]
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/kantyuu/kantyuu.png,nolink,50%)
+** データ  [#qa1c1e8c]
+>国：中立
+>グレード：COLOR(#3300FF){普通}
+>職業：槍兵
+>統率：55(+0.69)
+>武力：68(+0.85)
+>知力：57(+0.72)
+>評価：全能物理型，複数攻撃が得意
+>
+** スキル  [#qa1c1e8c]
+- 強風一掃
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/kantyuu/SK1.png,nolink,50%)
+>前方範囲内の敵に35の物理ダメージを3回与える
+
+- 一掃三軍
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/kantyuu/SK2.png,nolink,50%)
+>前方小範囲の敵に60の物理ダメージを与え、撃退する
+
+- 重刺剣
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/kantyuu/SK3.png,nolink,50%)
+>敵単体に110の物理ダメージを与える
+
+- 槍兵統領
+#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/kantyuu/SK4.png,nolink,25%)
+>武将と槍兵の物理攻撃を4上げる
+
+** メイン武器  [#qa1c1e8c]
+- 火尖槍
+- 虎頭槍
+- 縷金槍
+- 八宝金槍
+- 猛虎断魂槍
+- 野馬平川槍

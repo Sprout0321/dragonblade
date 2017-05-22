@@ -1,0 +1,17 @@
+-#author("2017-05-02T10:35:48+09:00","default:Admin","Admin")
++#author("2017-05-02T16:07:24+09:00","default:Admin","Admin")
+ ** 瑶光鎧 [#zcbf4116]
+ 
+-#ref(http://wiki.dragon-blade.jp/image/Soubi/baowu51.png,100%)
++#ref(http://wiki.dragon-blade.jp/image/Soubi/baowu51.png,nolink,100%)
+ 
+ >グレード：橙色
+ 
+ >物理防御：132
+ 
+ >鑑定枠：4個
+ 
+ >セット属性：
+ >2件　攻撃士気回復+4
+ >3件　策略防御+72
+ >4件　攻撃士気回復+8

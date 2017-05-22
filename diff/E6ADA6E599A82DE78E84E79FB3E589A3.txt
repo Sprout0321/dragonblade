@@ -1,0 +1,12 @@
+-#author("2017-05-02T10:20:11+09:00","default:Admin","Admin")
++#author("2017-05-02T16:04:35+09:00","default:Admin","Admin")
+ ** 玄石剣 [#zcbf4116]
+ 
+-#ref(http://wiki.dragon-blade.jp/image/Buki/baowu003.png,100%)
++#ref(http://wiki.dragon-blade.jp/image/Buki/baowu003.png,nolink,100%)
+ 
+ >グレード：紫色
+ 
+ >物理攻撃：58
+ 
+ >鑑定枠：3個

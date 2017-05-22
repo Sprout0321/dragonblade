@@ -1,0 +1,40 @@
+-#author("2017-05-02T19:26:30+09:00","default:Admin","Admin")
++#author("2017-05-08T15:25:51+09:00","default:Admin","Admin")
+ * ''沮授'' [#n151e840]
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Sojyu/Sojyu.png,nolink,50%)
+ ** データ  [#qa1c1e8c]
+ >国：中立
+ >グレード：COLOR(#993399){優良}
+ >職業：弓兵
+ >統率：118(+1.41)
+ >武力：115(+1.36)
+ >知力：158(+1.94)
+ >評価：策略攻撃型、複数攻撃能力や統率力に優れている
+ >
+ ** スキル  [#qa1c1e8c]
+ - 転石群
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Sojyu/SK1.png,nolink,50%)
+ >戦場に巨大な石を転がし、軌道上にいる敵に90の策略攻撃を行う。さらに、60%の確率で、敵を3秒間気絶さ
+ 
+ せる
+ 
+ - 落石
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Sojyu/SK2.png,nolink,50%)
+ >巨石を落とし、範囲内の敵に60の策略ダメージを与え、敵の行動を中断させる
+ 
+ - 転木
+ #ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Sojyu/SK3.png,nolink,50%)
+ >木を転ばし直線上にいる敵に70の策略ダメージを与える
+ 
+ - 戦鼓雷鳴
+-#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Sojyu/Saji.png,nolink,50%)
++#ref(http://wiki.dragon-blade.jp/image/Busyo/tyu/Sojyu/SK4.png,nolink,25%)
+ >武将自身の士気回復速度を1.2上げる。
+ 
+ ** メイン武器  [#qa1c1e8c]
+ - 訓兵巻
+ - 奇兵巻
+ - 伏兵巻
+ - 制陥巻
+ - 破陥巻
+ - 御敵巻

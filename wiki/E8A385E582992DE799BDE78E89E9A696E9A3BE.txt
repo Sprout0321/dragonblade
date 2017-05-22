@@ -1,0 +1,10 @@
+#author("2017-05-02T16:07:46+09:00","default:Admin","Admin")
+** 白玉首飾 [#zcbf4116]
+
+#ref(http://wiki.dragon-blade.jp/image/Soubi/baowu029.png,nolink,100%)
+
+>グレード：緑色
+
+>最大HP：60
+
+>鑑定枠：1個
