@@ -332,10 +332,14 @@ strong.word9 {
 div#header {
 	padding:0px;
 	margin:0px;
-        height:50px;
-	background-color:#e8b0b0;
+      	
 }
 
+header {
+    height: 200px;
+    idth: 100%;
+    background-color:#e8b0b0;
+}
 div#navigator {
 <?php   if ($media == 'print') { ?>
 	display:none;
