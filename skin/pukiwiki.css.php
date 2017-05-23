@@ -332,7 +332,8 @@ strong.word9 {
 div#header {
 	padding:0px;
 	margin:0px;
-	background-color:#990099;
+        height:50px;
+	background-color:#e8b0b0;
 }
 
 div#navigator {
