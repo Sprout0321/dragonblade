@@ -115,7 +115,7 @@ EOD;
 	function buildContentHtml(){
 		$contentstyle = ($this->isopened) ? "display:block;" : "display:none;";
 		return <<<EOD
-<td valign=top id=rgn_content$this->callcount style="$contentstyle">
+<td valign=top id=rgn_content$this->callcount style="font-size:14pt;color:black;border:black 0px solid;$contentstyle">
 EOD;
 	}
 
