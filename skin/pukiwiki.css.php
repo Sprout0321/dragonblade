@@ -337,9 +337,10 @@ div#header {
 
 header {
     height: 200px;
-    idth: 100%;
+    width: 100%;
     background-color:#e8b0b0;
 }
+
 div#navigator {
 <?php   if ($media == 'print') { ?>
 	display:none;
@@ -354,7 +355,7 @@ td.menubar {
 <?php   if ($media == 'print') { ?>
 	display:none;
 <?php   } else { ?>
-	width:9em;
+	width:14em;
 	vertical-align:top;
 <?php   } ?>
 }
