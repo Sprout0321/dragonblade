@@ -77,7 +77,7 @@ class RegionPluginHTMLBuilder
 		return <<<EOD
 <table cellpadding=1 cellspacing=2><tr>
 <td valign=top>
-	<span id=rgn_button$this->callcount style="cursor:pointer;font:normal 10px £Í£Ó £Ð¥´¥·¥Ã¥¯;border:gray 1px solid;"
+	<span id=rgn_button$this->callcount style="cursor:pointer;font:normal 14px £Í£Ó £Ð¥´¥·¥Ã¥¯;border:gray 0px solid;"
 	onclick="
 	if(document.getElementById('rgn_summary$this->callcount').style.display!='none'){
 		document.getElementById('rgn_summary$this->callcount').style.display='none';
