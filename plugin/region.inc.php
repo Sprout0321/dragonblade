@@ -99,7 +99,7 @@ EOD;
 	function buildBracketHtml(){
 		$bracketstyle = ($this->isopened) ? "border-style: solid none solid solid;" : "border-style:none;";
 		return <<<EOD
-<td id=rgn_bracket$this->callcount style="font-size:1pt;border:gray 1px;$bracketstyle">&nbsp;</td>
+<td id=rgn_bracket$this->callcount style="font-size:14pt;border:black 0px;$bracketstyle">&nbsp;</td>
 EOD;
 	}
 
@@ -107,7 +107,7 @@ EOD;
 	function buildSummaryHtml(){
 		$summarystyle = ($this->isopened) ? "display:none;" : "display:block;";
 		return <<<EOD
-<td id=rgn_summary$this->callcount style="color:gray;border:gray 1px solid;$summarystyle">$this->description</td>
+<td id=rgn_summary$this->callcount style="color:black;border:black 1px solid;$summarystyle">$this->description</td>
 EOD;
 	}
 
