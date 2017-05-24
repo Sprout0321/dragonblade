@@ -88,10 +88,10 @@ if (isset($pkwk_dtd)) {
 <body>
 
 <div id="header">
- <a href="<?php echo $link['top'] ?>"><img id="logo" src="<?php echo IMAGE_DIR . $image['logo'] ?>" width="80" height="80" alt="Dragon Blade" title="[Dragon Blade]" />
+<!-- <a href="<?php echo $link['top'] ?>"><img id="logo" src="<?php echo IMAGE_DIR . $image['logo'] ?>" width="80" height="80" alt="Dragon Blade" title="[Dragon Blade]" />
  
   <h1 class="title"><?php echo $page_title ?></h1>
-  </a>
+  </a>-->
 
 
 
