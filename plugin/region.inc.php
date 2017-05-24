@@ -80,9 +80,10 @@ class RegionPluginHTMLBuilder
 	<span id=rgn_button$this->callcount style="cursor:pointer;font:normal 14px £Í£Ó £Ð¥´¥·¥Ã¥¯;border:gray 0px solid;"
 	onclick="
 	if(document.getElementById('rgn_summary$this->callcount').style.display!='none'){
+
 		document.getElementById('rgn_summary$this->callcount').style.display='none';
 		document.getElementById('rgn_content$this->callcount').style.display='block';
-		document.getElementById('rgn_bracket$this->callcount').style.borderStyle='solid none solid solid';
+		document.getElementById('rgn_bracket$this->callcount').style.borderStyle='none';
 		document.getElementById('rgn_button$this->callcount').innerHTML='-';
 	}else{
 		document.getElementById('rgn_summary$this->callcount').style.display='block';
