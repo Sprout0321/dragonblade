@@ -189,10 +189,7 @@ strong.word9 {
 ----------------------------------------------------------------------------- */
 #header{
 	text-align: left;
-	background-color: #333;
-	background:linear-gradient(#AAA, #111);
-	background: -moz-linear-gradient(top, #AAA, #111);
-	background: -webkit-gradient(linear, left top, left bottom, from(#AAA), to(#111));
+	background-image:url( ' http://wiki.dragon-blade.jp/image/test_header_2.png ' );
 	margin:0 0 10px;
 }
 

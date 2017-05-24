@@ -332,7 +332,7 @@ strong.word9 {
 div#header {
 	padding:0px;
 	margin:0px;
-      	background-image:url( ' http://wiki.dragon-blade.jp/image/test_header.png ' );
+      	background-image:url( ' http://wiki.dragon-blade.jp/image/test_header_2.png ' );
 }
 
 header {
