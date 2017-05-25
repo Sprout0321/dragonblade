@@ -56,8 +56,8 @@ class RegionPluginHTMLBuilder
 	function setDescription($description){
 		$this->description = convert_html($description);
 		// convert_htmlを使うと <p>タグで囲まれてしまう。Mozzilaだと表示がずれるので<p>タグを消す。
-		$this->description = preg_replace( "/^<p>/i", "", $this->description);
-		$this->description = preg_replace( "/<\/p>$/i", "", $this->description);
+		$this->description = preg_replace( "/^<br>/i", "", $this->description);
+		$this->description = preg_replace( "/<\/br>$/i", "", $this->description);
 	}
 	function build(){
 		$this->callcount++;
@@ -108,7 +108,7 @@ EOD;
 	function buildSummaryHtml(){
 		$summarystyle = ($this->isopened) ? "display:none;" : "display:block;";
 		return <<<EOD
-<td id=rgn_summary$this->callcount style="font-size:12pt;color:black;border:black 0px solid;$summarystyle">$this->description</td>
+<td id=rgn_summary$this->callcount width:100px;style="font-size:12pt;color:black;border:black 0px solid;$summarystyle">$this->description</td>
 EOD;
 	}
 
@@ -116,7 +116,7 @@ EOD;
 	function buildContentHtml(){
 		$contentstyle = ($this->isopened) ? "display:block;" : "display:none;";
 		return <<<EOD
-<td valign=top id=rgn_content$this->callcount style="font-size:12pt;color:black;border:black 0px solid;$contentstyle">
+<td valign=top id=rgn_content$this->callcount width:100px;style="font-size:12pt;color:black;border:black 0px solid;$contentstyle">
 EOD;
 	}
 
