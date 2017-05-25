@@ -334,6 +334,7 @@ div#header {
 	padding:0px;
 	margin:0px;
 	background-image:url( ' http://wiki.dragon-blade.jp/image/header.jpeg ' );
+	background-size: 100% 100%;
 }
 
 header {
