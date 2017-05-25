@@ -96,13 +96,13 @@ if (isset($pkwk_dtd)) {
 
 
 
- <?php if(SKIN_DEFAULT_DISABLE_TOPICPATH) { ?>
+<!--  <?php if(SKIN_DEFAULT_DISABLE_TOPICPATH) { ?>
    <a href="<?php echo $link['reload'] ?>"><span class="small"><?php echo $link['reload'] ?></span></a>
  <?php } else { ?>
    <span class="small">
    <?php require_once(PLUGIN_DIR . 'topicpath.inc.php'); echo plugin_topicpath_inline(); ?>
    </span>
- <?php } ?>
+ <?php } ?> -->
 
 
 </div>
