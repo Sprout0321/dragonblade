@@ -330,7 +330,7 @@ strong.word9 {
 
 /* pukiwiki.skin.php */
 div#header {
-	<!-- height:200px; -->
+	height:200px;
 	padding:0px;
 	margin:0px;
 	background-image:url( ' http://wiki.dragon-blade.jp/image/header.jpeg ' );

@@ -189,7 +189,7 @@ strong.word9 {
 ----------------------------------------------------------------------------- */
 #header{
 	text-align: left;
-	/*height:200px;*/
+	height:200px;
 	background-image:url( ' http://wiki.dragon-blade.jp/image/header.jpeg ' );
 	background-repeat: no-repeat;
 	background-attachment: fixed;
