@@ -56,8 +56,8 @@ class RegionPluginHTMLBuilder
 	function setDescription($description){
 		$this->description = convert_html($description);
 		// convert_htmlを使うと <p>タグで囲まれてしまう。Mozzilaだと表示がずれるので<p>タグを消す。
-		$this->description = preg_replace( "/^<br>/i", "", $this->description);
-		$this->description = preg_replace( "/<\/br>$/i", "", $this->description);
+		$this->description = preg_replace( "/^<p>/i", "", $this->description);
+		$this->description = preg_replace( "/<\/p>$/i", "", $this->description);
 	}
 	function build(){
 		$this->callcount++;
