@@ -31,7 +31,7 @@ if ($media != 'print') $media = 'screen';
 ?>
 @charset "<?php echo $charset ?>";
 
-pre, dl, ol, p, blockquote { line-height:0%; }
+pre, dl, ol, p, blockquote { line-height:130%; }
 
 blockquote { margin-left:32px; }
 
