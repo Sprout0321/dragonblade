@@ -333,7 +333,7 @@ div#header {
 	height:200px;
 	padding:0px;
 	margin:0px;
-      	background-image:url( ' http://wiki.dragon-blade.jp/image/test_header_2.png ' );
+      	background-image:url( ' http://wiki.dragon-blade.jp/image/header.jepg ' );
 }
 
 header {
